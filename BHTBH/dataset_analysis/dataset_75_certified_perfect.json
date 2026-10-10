@@ -1,0 +1,2402 @@
+[
+  {
+    "case_index": 1,
+    "case_id": "PMC10870101_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "51",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10870101_cureus-0016-00000052466-i02_A_1_4.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10870101_cureus-0016-00000052466-i02_D_4_4.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC10870101_cureus-0016-00000052466-i03_A_1_3.webp"
+      }
+    ],
+    "case_presentation": "A 51-year-old female patient presented to our medical center with complaints of altered sensorium, fever, and chills for the past five days, and dyspnea for the past two days. A general examination revealed an average build, with the patient being moderately nourished. She was febrile with a body temperature of 100 F, and had a pulse rate of 128 bpm, blood pressure of 100/70 mmHg on inotrope, 94% SpO2, and respiration rate of 24 cycles/minute; dehydration was also noted. Positive findings included fever, tachycardia, hypotension, dehydration, tachypnea, and hypoxia. During the systemic evaluation, on the central nervous system (CNS) examination, the patient exhibited signs of lethargy, irritability, noncompliance with verbal instructions, and movement of all four limbs. Bilateral pupils reacted similarly to light. Bilateral extensor plantar reflex was noted. On respiratory examination, bilateral fine basal crepitations were present. Day 1 reports suggested dengue and Leptospira coinfection fever with mild hepatitis and thrombocytopenia. MRI of the brain and CSF studies were conducted, both of which showed viral encephalitis changes.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever with altered sensorium, hepatitis and thrombocytopenia; day-1 laboratory reports and MRI/CSF viral encephalitis changes established Dengue.",
+      "direct_quote": "suggested dengue and Leptospira coinfection fever with mild hepatitis and thrombocytopenia"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 2,
+    "case_id": "PMC6417330_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "24",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC6417330_AJNS-14-211-g001_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC6417330_AJNS-14-211-g002_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC6417330_AJNS-14-211-g003_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC6417330_AJNS-14-211-g004_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC6417330_AJNS-14-211-g005_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 24-year-old female underwent transcranial surgery for pituitary macroadenoma. She underwent the right frontotemporal craniotomy. The lesion was approached through right subfrontal and pterional transsylvian corridor. Postoperatively, she was recuperating well in the neurosurgical intensive unit. She was fully conscious and oriented with a Glasgow Coma Scale (GCS) of 15/15. Computed tomography (CT) scan done at this juncture was uneventful with only postoperative changes. She had mild fever which manifested on the 4th postoperative day which lasted for few days and subsided. After 2 days, we noticed a swelling over the craniotomy site which gradually increases by the 10th day to involve upper part of the face. A CT scan was repeated which showed subgaleal and extradural hematoma (EDH) beneath the craniotomy site with mild midline shift of 3 mm. In view of the recent epidemic of Dengue in our region, we investigated her for NS1 antigen and Dengue IgM antibodies both of which turned out to be positive.",
+    "diagnostic_reasoning": {
+      "reasoning": "Postoperative extradural hematoma after pituitary surgery during a dengue epidemic; positive NS1 antigen and dengue IgM antibodies established Dengue.",
+      "direct_quote": "NS1 antigen and Dengue IgM antibodies both of which turned out to be positive"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 3,
+    "case_id": "PMC10876100_02",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "43",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10876100_cureus-0016-00000052627-i02_A_1_2.webp"
+      }
+    ],
+    "case_presentation": "A 43-year-old man, a resident of Uttar Pradesh, driver by occupation, a smoker for 25 years, and occasional alcohol consumer, having a previous history of dengue fever six years back, known patient of diabetes mellitus, presented with a history of acute onset intermittent, high-grade fever associated with chills during the last seven days followed by mild to moderate epigastric pain and two episodes of gum bleeding. He also noticed yellowish discoloration of eyes for three to four days, and throat pain for two days. On examination, the patient was hemodynamically stable with a random blood sugar of 180 mg/dL and had multiple ecchymoses over the arm and abdomen, icterus, and multiple creamy white patches over the tongue, posterior oro-pharyngeal wall and palate. Tenderness was noted on the right hypochondriac region; on respiratory system examination, the patient had inspiratory crackles over bilateral infra-axillary and infra-scapular areas. A tropical fever workup came positive for dengue NS1 (ELISA method), and viral markers (anti-HCV, anti-HIV I/II, and HBsAg) were non-reactive.",
+    "diagnostic_reasoning": {
+      "reasoning": "Jaundice and right hypochondriac tenderness in a driver; positive tropical fever workup for dengue NS1 by ELISA established Dengue.",
+      "direct_quote": "A tropical fever workup came positive for dengue NS1 (ELISA method)"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 4,
+    "case_id": "PMC10932498_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Reverse takotsubo syndrome",
+    "patients": [
+      {
+        "age": "17",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10932498_jchim-14-01-072f1_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 17 year old male patient with no previous comorbidities presented with a 13 day history of high grade fever and productive cough. The patient also had nausea and vomiting for 7 days, followed by bilateral flank and epigastric pain for 5 days. The patient was initially treated for dengue fever (Dengue NS1 test positive) at rural health care facilities in Kashmir. The patient developed sinus bradycardia, heart rate of 37 beats per minute, with borderline blood pressures of 100/70 mmHg that was managed with Atropine and transferred to the tertiary care hospital in Islamabad. Further workup revealed weakly positive (Antinuclear Antibody) ANA and elevated serum creatinine of 1.5 mg/dL (0.5-1.0 mg/dL) which was presumed to be pre-renal acute kidney injury. Baseline Hemoglobin was 14.7 g/dL, White blood cell count 4350/uL, and Platelets of 140 thousand/uL. Echocardiography performed on day 2 of admission was consistent with reduced LV systolic function of 35 % with mild tricuspid and pulmonary regurgitation, along with mid-ventricular ballooning and hyperdynamic apices depicting reverse takotsubo syndrome.",
+    "diagnostic_reasoning": {
+      "reasoning": "NS1-positive dengue with bradycardia and reduced LV systolic function; echocardiographic mid-ventricular ballooning with hyperdynamic apices established reverse takotsubo syndrome.",
+      "direct_quote": "mid-ventricular ballooning and hyperdynamic apices depicting reverse takotsubo syndrome"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 5,
+    "case_id": "PMC10062082_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Acute macular neuroretinopathy",
+    "patients": [
+      {
+        "age": "28",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10062082_OJO-16-177-g003_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10062082_OJO-16-177-g003_b_2_2.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC10062082_OJO-16-177-g004_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 28-year-old male presented with blurring of vision in the left eye and headache for 15 days. He had dengue fever 22 days earlier, confirmed by positive immunoglobulin M enzyme-linked immunosorbent assay serology for the Dengue virus. Best-corrected visual acuity was 6/9 in the right eye and finger counting at 0.5 m in the left eye. Left fundus examination showed focal constriction of arteries and veins, soft exudates, dot-blot and flame-shaped hemorrhages in a branch vein distribution, attempted macular fan formation, and macular edema. Left-eye optical coherence tomography showed neurosensory detachment with cystoid macular edema, and central macular thickness was 1018 mu. Platelet count was 84,000 (thrombocytopenia). Dengue retinopathy was diagnosed, and intravitreal triamcinolone acetonide (4 mg/0.1 ml) was given. At 2 months, visual acuity was 6/6 in the right eye and 6/18 in the left eye. Because left-eye acuity had not normalized, fundus fluorescein angiography and optical coherence tomography angiography were performed.",
+    "diagnostic_reasoning": {
+      "reasoning": "Vision loss 22 days after dengue with macular edema and neurosensory detachment on OCT; IgM-positive dengue serology established acute macular neuroretinopathy.",
+      "direct_quote": "confirmed by positive immunoglobulin M enzyme-linked immunosorbent assay serology for the Dengue virus"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 6,
+    "case_id": "PMC4327404_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "54",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC4327404_cop-0006-0018-g01_a_1_4.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC4327404_cop-0006-0018-g01_b_2_4.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC4327404_cop-0006-0018-g01_c_3_4.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC4327404_cop-0006-0018-g01_d_4_4.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC4327404_cop-0006-0018-g02_a_1_4.webp"
+      },
+      {
+        "image_id": "Figure 6",
+        "image_file": "PMC4327404_cop-0006-0018-g02_b_2_4.webp"
+      },
+      {
+        "image_id": "Figure 7",
+        "image_file": "PMC4327404_cop-0006-0018-g02_c_3_4.webp"
+      },
+      {
+        "image_id": "Figure 8",
+        "image_file": "PMC4327404_cop-0006-0018-g02_d_4_4.webp"
+      }
+    ],
+    "case_presentation": "A 54-year-old female was referred to our department with blurred vision and metamorphopsia in her left eye following the diagnosis of DF 2 weeks earlier. She presented all classic systemic symptoms of DF with a papular rash over her arms and hands followed by fever, headache, retro-orbital pain and myalgia. A systemic workup revealed a thrombocytopenia, and a real-time PCR for the dengue virus type 2 was positive, confirming the diagnosis of DF. Noteworthy, she reported 2 previous episodes of DF in 2009 and 2011. Her best-corrected visual acuity (BCVA) was 20/20 in the right eye and 20/150 in the left eye. An anterior segment examination showed no abnormalities. Ophthalmoscopy revealed subretinal fluid and focal hemorrhage in the macula of the left eye. A fluorescein angiography (FA) showed a hyperfluorescent lesion with well-defined borders and active leakage consistent with classic CNV.",
+    "diagnostic_reasoning": {
+      "reasoning": "Blurred vision and metamorphopsia after dengue with subretinal fluid and a hyperfluorescent lesion on angiography; positive dengue type 2 PCR established Dengue.",
+      "direct_quote": "real-time PCR for the dengue virus type 2 was positive"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 7,
+    "case_id": "PMC6417330_02",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue with cerebellar infarcts and obstructive hydrocephalus",
+    "patients": [
+      {
+        "age": "1",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC6417330_AJNS-14-211-g006_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC6417330_AJNS-14-211-g007_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC6417330_AJNS-14-211-g008_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 1-year old female child was referred to us with fever of 1-week duration and altered sensorium. She was initially assessed by the emergency paediatrician. She was drowsy with a GCS of 9/15. A CT scan was advised which revealed bilateral cerebellar infarcts and patchy hypodensities in the left middle cerebral artery territory. There was dilatation of the ventricles suggestive of obstructive hydrocephalus. She was referred to us for urgent intervention. After evaluating her clinically, placement of external ventricular drain was planned as an emergency measure to relieve the obstructive hydrocephalus. Preoperative investigations revealed she had low platelet count (30,000/mm3) and also showed positive reaction to dengue NS1 antigen. Her INR was 1.4 and APTT was 45 s. Multiple platelet transfusions were given with a modest rise in platelet counts to 50,000/mm3. An EVD was placed over the right Kocher's point to relieve the hydrocephalus after which the child became conscious to a GCS of 11/15. She started to localize for pain.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever and drowsiness with cerebellar infarcts and obstructive hydrocephalus on CT; positive dengue NS1 antigen established dengue with cerebellar infarcts and obstructive hydrocephalus.",
+      "direct_quote": "also showed positive reaction to dengue NS1 antigen"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 8,
+    "case_id": "PMC12715675_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "45",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC12715675_OC-15-15-g-002_A_1_4.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC12715675_OC-15-15-g-002_B_2_4.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC12715675_OC-15-15-g-002_C_3_4.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC12715675_OC-15-15-g-002_D_4_4.webp"
+      }
+    ],
+    "case_presentation": "A 45-year-old woman, otherwise fit and well attended the Emergency Department complaining of blurriness of her right eye (OD), since she woke up on the same day. She denied pain, ocular discharge, or redness. She had a history of joint and muscle pain, which started 8 days before. She went to her general practitioner one day after, when fever and vomit started. At this time, she was evaluated, and the diagnosis of dengue fever (DF) was done and confirmed by serology (NS1 antigen). At first ophthalmological evaluation, her best corrected visual acuity (VA) was 20/40 in OD, and 20/20 in the left eye (OS). Biomicroscopy showed no evidence of inflammation, and intraocular pressure (IOP) was normal in both eyes (OU). Fundoscopy revealed a discrete well-circumscribed, round yellow-orange lesion localized in the foveal region, retinal hemorrhages, macular oedema, soft exudates, and adjacent perivasculitis in OD. Left eye showed some discrete dot-blot retinal hemorrhages. Autofluorescence (FAF) showed hypoautofluorescence at the level of retinal hemorrhages, and fluorescein angiography (FA) was unremarkable.",
+    "diagnostic_reasoning": {
+      "reasoning": "Foveal yellow-orange lesion with retinal hemorrhages, macular edema and perivasculitis; NS1 antigen serology established Dengue.",
+      "direct_quote": "diagnosis of dengue fever (DF) was done and confirmed by serology (NS1 antigen)"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 9,
+    "case_id": "PMC10876100_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Severe dengue with oropharyngeal candidiasis",
+    "patients": [
+      {
+        "age": "30",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10876100_cureus-0016-00000052627-i01_A_1_2.webp"
+      }
+    ],
+    "case_presentation": "A 30-year-old man, resident of Uttarakhand, security officer by occupation presented to the emergency department with a history of acute onset high-grade fever for the last seven days. He was associated with mild to moderate intensity holocranial headache and hiccups for the last five days; and acute onset, continuous, dull aching, right hypochondrial pain on a log scale of 4 out of 10 for the last four days. He also complained of dizziness with one episode of fall without loss of consciousness or seizure episode three days back. He was admitted to a hospital and had a total platelet count of 54,000/dL with Dengue NS1 positivity. In the hospital, he developed agitation, aggressive behavior, and confusion not recognizing family members, followed by drowsiness and aphasia. For these complaints, he was referred to our tertiary care hospital. Multiple creamy white lesions were noted on the posterior oro-pharyngeal wall and palate. Microscopy of oro-pharyngeal swabs showed budding yeast cells, and culture of the same grew candida.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever and encephalopathy with NS1-positive thrombocytopenia indicated severe dengue; oral lesions with yeast on microscopy and culture established concurrent candidiasis.",
+      "direct_quote": "had a total platelet count of 54,000/dL with Dengue NS1 positivity"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 10,
+    "case_id": "PMC4750307_02",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "26",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC4750307_JNRP-7-114-g007_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 26-year-old girl presented with high-grade continuous fever associated with chills and rigor for 5 days, severe headache anorexia, nausea, multiple episodes of vomiting for 4 days, and disorientation for 2 days. There was a history of one episode of GTCS convulsion day before admission. There was no similar illness in the past. On neurological examination, she had neck rigidity with positive Kernig sign. GCS Score was E4M5V3. No cranial nerve abnormality was noted. Motor function, sensory function, reflexes, cerebellar function, and autonomic function were all within normal limit. Planter was bilateral extensor. MRI scan of brain (plain and contrast) done on 6th day of fever, showed mild diffusion restricted nonenhancing altered signal intensity (hypointense in T1, hyperintense in T2 and FLAIR) in both thalamic and left medial temporal lobe suggestive of encephalitis. The patient was diagnosed as dengue meningoencephalitis. Patient was treated only with IV fluid and paracetamol as antipyretic. Patient improved gradually with normal sensorium gained on the 10th day of hospital stay with no neck rigidity.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever with neck rigidity and positive Kernig sign; thalamic and temporal lobe MRI signal changes suggestive of encephalitis established Dengue.",
+      "direct_quote": "showed mild diffusion restricted nonenhancing altered signal intensity"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 11,
+    "case_id": "PMC5088483_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "41",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC5088483_40942_2016_27_Fig1_HTML_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC5088483_40942_2016_27_Fig1_HTML_b_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 41 year old Malay female with no prior medical illness, was admitted to medical ward with the complain of fever, headache and reducing platelet and increasing hematocrit for 3 days duration. Her Dengue NS-1 antigen was reactive which confirms dengue virus infection. She was diagnosed to have 'dengue fever with warning signs' based on WHO classification of levels of severity. On admission she complained of right eye blurring of vision for 1 day. Fundus examination was done by medical officer in Medical ward and was documented normal. Therefore she was not referred to Ophthalmology department during the hospital stay. She was treated with fluid resuscitation and was discharged after 5 days. However, right eye blurring of vision persisted and then she was referred to the ophthalmologist. She presented to our eye clinic with right eye blurring of vision for 8 days. It was sudden in onset and non-progressive. On examination, patient was alert, comfortable and vital signs were stable.",
+    "diagnostic_reasoning": {
+      "reasoning": "Sudden right-eye blurring of vision during dengue fever with warning signs; reactive NS-1 antigen established Dengue.",
+      "direct_quote": "Her Dengue NS-1 antigen was reactive which confirms dengue virus infection"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 12,
+    "case_id": "PMC11003597_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Hemophagocytic lymphohistiocytosis",
+    "patients": [
+      {
+        "age": "27",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC11003597_IJN-34-079-g001_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 27-year-old male deceased donor kidney transplant recipient presented to us 6 months posttransplant with high-grade fever, retro-orbital pain, headache, and myalgia of 3 days duration. His brother, who lives with him, had similar complaints, and was diagnosed with dengue fever. His native kidney disease was IgA nephropathy. His dialysis vintage was 6 years. He received basiliximab induction and was on triple-drug immunosuppression (mycophenolate mofetil, tacrolimus, steroids). He had immediate graft function with nadir creatinine of 0.8 mg/dl. On general physical examination, he showed signs of dehydration, hypotension with a blood pressure of 90/60 mmHg, and tachycardia. Routine laboratory tests revealed pancytopenia, acute allograft dysfunction, hyponatremia, and sinus tachycardia on electrocardiogram (ECG). Tacrolimus trough level was 7 ng/ml. Ultrasound abdomen and pelvis was suggestive of mild splenomegaly. Dengue NS1 antigen returned positive. Bone marrow aspiration showed evidence of hemophagocytosis. A diagnosis of HLH secondary to dengue viral infection was made based on the modified HLH 2009 criteria.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever, pancytopenia and allograft dysfunction after dengue; hemophagocytosis on bone marrow aspiration established hemophagocytic lymphohistiocytosis.",
+      "direct_quote": "A diagnosis of HLH secondary to dengue viral infection was made"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 13,
+    "case_id": "PMC3913988_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "40",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC3913988_kjo-28-96-g001_A_1_5.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC3913988_kjo-28-96-g001_B_2_5.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC3913988_kjo-28-96-g001_C_3_5.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC3913988_kjo-28-96-g001_D_4_5.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC3913988_kjo-28-96-g001_E_5_5.webp"
+      },
+      {
+        "image_id": "Figure 6",
+        "image_file": "PMC3913988_kjo-28-96-g002_A_1_5.webp"
+      },
+      {
+        "image_id": "Figure 7",
+        "image_file": "PMC3913988_kjo-28-96-g002_B_2_5.webp"
+      },
+      {
+        "image_id": "Figure 8",
+        "image_file": "PMC3913988_kjo-28-96-g002_C_3_5.webp"
+      },
+      {
+        "image_id": "Figure 9",
+        "image_file": "PMC3913988_kjo-28-96-g002_D_4_5.webp"
+      },
+      {
+        "image_id": "Figure 10",
+        "image_file": "PMC3913988_kjo-28-96-g002_E_5_5.webp"
+      }
+    ],
+    "case_presentation": "A 40-year-old woman presented with a 1-year history of afterimages in both eyes after having Dengue fever. Her best-corrected visual acuity (BCVA) was 20 / 20 in both eyes, and her intraocular pressure was normal. Slit examination revealed no abnormal findings. Retina examination revealed hemorrhaging in the retina inner layer and RPE atrophy in both eyes. Fluorescein angiography demonstrated fluorescence blockage by retinal hemorrhage. ICG showed late hypofluorescence due to choroidal filling disorder, and infrared (IR) imagery showed hypofluorescence that included both foveae. OCT imagery revealed disruption of the inner segment/outer segment junction (IS/OS) junction and outer retina thinning at the hypofluorescence site of the IR imagery ( and 2).",
+    "diagnostic_reasoning": {
+      "reasoning": "Persistent afterimages after dengue fever; retinal hemorrhage with fluorescence blockage and outer retina disruption on imaging established Dengue.",
+      "direct_quote": "Fluorescein angiography demonstrated fluorescence blockage by retinal hemorrhage"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 14,
+    "case_id": "PMC6417330_03",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "75",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC6417330_AJNS-14-211-g009_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC6417330_AJNS-14-211-g010_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC6417330_AJNS-14-211-g011_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC6417330_AJNS-14-211-g011_b_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 75-year-old female had a history of fall at home after which she became unconscious and was brought to our hospital emergency. After resuscitation, a CT scan was taken which showed a right temporal lobe hematoma. She underwent craniotomy and evacuation of hematoma after which she regained consciousness. She had an uneventful postoperative period until the 2nd week. Postoperative CT scan showed no fresh bleeding. She was set to be discharged when she developed mild fever and altered sensorium. She was transferred to Intensive care unit and evaluated. Investigations revealed she had thrombocytopenia (63,000/mm3) which prompted us to evaluate her for dengue. She was positive for NS1 antigen and IgM antibody. Her INR was 1.3 and APTT was 40 s. She was administered platelet concentrates without a notable rise in her thrombocytopenia. After 4 days, her consciousness further deteriorated and chest X-rays revealed she had severe chest infection. She was ventilated as she further developed respiratory failure sequelae to acute respiratory distress syndrome.",
+    "diagnostic_reasoning": {
+      "reasoning": "Postoperative fever with thrombocytopenia, then severe chest infection; positive NS1 antigen and IgM antibody established Dengue.",
+      "direct_quote": "She was positive for NS1 antigen and IgM antibody"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 15,
+    "case_id": "PMC4750307_05",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "34",
+        "gender": "male"
+      }
+    ],
+    "images": [],
+    "case_presentation": "A 34-year-old male patient presented with high-grade continuous fever associated with chills and rigor for 7 days, persistent severe headache for 6 days, multiple episodes of vomiting, and disorientation for 5 days. There was a history of multiple episodes of GTCS for last 4 days. He had also purpuric spots in lower extremities for last 4 days. On neurological examination, she had neck rigidity with positive Kernig sign. GCS Score was E1M4V2. No cranial nerve abnormality was noted. Motor examination revealed hypotonia on all four limbs. Planter was bilateral extensor. Rest of the CNS examination could not be done. MRI scan of brain (plain and contrast), done on 8th day of fever, showed mild diffusion restricted altered signal intensity (hypointense in T1, hyperintense in T2, and FLAIR) in both thalamic and splenium of corpus callosum region, and the diagnosis of dengue meningoencephalitis was done. Again, treatment was started only with IV fluid, paracetamol as antipyretic and anticonvulsant. He was the only patient to have IgM dengue positivity in CSF.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever with seizures, neck rigidity, positive Kernig sign and low GCS; CSF dengue IgM positivity and thalamic MRI changes established Dengue.",
+      "direct_quote": "He was the only patient to have IgM dengue positivity in CSF"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 16,
+    "case_id": "PMC7468372_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Bilateral retinal vasculitis with macular infarction",
+    "patients": [
+      {
+        "age": "44",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC7468372_IMCRJ-13-363-g0001_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC7468372_IMCRJ-13-363-g0001_B_2_2.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC7468372_IMCRJ-13-363-g0002_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC7468372_IMCRJ-13-363-g0002_B_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 44-year-old male presented with sudden onset, diminution of vision in both eyes for 10 days. He gave history of fever, myalgia, and weakness one week prior to onset of ocular problem. He was previously healthy, not known to have diabetes mellitus or hypertension. During clinical evaluation and laboratory investigation for fever; typhoid, malaria, tuberculosis, syphilis, collagen vascular disease and bleeding disorders were absent. He was diagnosed to have dengue fever as NS1 antigen and IgM antibody were positive. At presentation, his best-corrected visual acuity was 1/60 in the right eye (OD) and 6/18 in the left eye (OS). Fundus examination revealed vitritis, perivascular exudates, intraretinal hemorrhages, macular edema, peripapillary retinal whitening, and cotton wool spots in both eyes, with additional retinal whitening affecting the right macula. In addition, there was capillary nonperfusion due to occlusion of multiple small arterioles supplying the macula of the right eye confirming macular ischemia. A diagnosis of bilateral retinal vasculitis with right eye macular infarction was made.",
+    "diagnostic_reasoning": {
+      "reasoning": "Dengue-positive patient with bilateral vision loss, vitritis and perivascular exudates; capillary nonperfusion and macular ischemia established bilateral retinal vasculitis with macular infarction.",
+      "direct_quote": "A diagnosis of bilateral retinal vasculitis with right eye macular infarction was made"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 17,
+    "case_id": "PMC5566360_01",
+    "underlying_disease": "Malaria and Dengue (co-infection)",
+    "final_diagnosis": "Mixed malarial infection with dengue co-infection",
+    "patients": [
+      {
+        "age": "17",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC5566360_imcrj-10-289Fig1_A_1_4.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC5566360_imcrj-10-289Fig1_B_2_4.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC5566360_imcrj-10-289Fig1_C_3_4.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC5566360_imcrj-10-289Fig1_D_4_4.webp"
+      }
+    ],
+    "case_presentation": "A 17-year-old male presented with fever and chills for 5-6 days, abdominal pain and vomiting. He lived in a slum area in east Delhi with a drain near his house. He was sick with severe pallor, a heart rate of 110 beats/min, respiratory rate of 16 breaths/min, and blood pressure of 110/70 mmHg. Hepatomegaly and massive splenomegaly were detected. Hemoglobin was 5 g/dL, total leukocyte count was 3,900/mm3, and platelet count was 78,000/mm3 on Day 0 and 30,000/mm3 on Day 2. Dengue immunoglobulin M enzyme-linked immunosorbent assay was reactive. Rapid malaria antigen test on Day 0 was positive for P. vivax only. However, on PBS examination, rings of P. vivax and rings and gametocytes of P. falciparum were seen. Polymerase chain reaction (PCR) assay confirmed the presence of both the species (P. falciparum and P. vivax) in the patient. Abdominal ultrasound showed an enlarged spleen and ascites.",
+    "diagnostic_reasoning": {
+      "reasoning": "Smear and PCR showed P. vivax and P. falciparum together; reactive dengue IgM ELISA established malaria-dengue co-infection.",
+      "direct_quote": "confirmed the presence of both the species (P. falciparum and P. vivax) in the patient"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 18,
+    "case_id": "PMC6417330_04",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "82",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC6417330_AJNS-14-211-g012_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC6417330_AJNS-14-211-g012_b_2_2.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC6417330_AJNS-14-211-g013_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC6417330_AJNS-14-211-g013_b_2_2.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC6417330_AJNS-14-211-g015_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A-82-year-old otherwise healthy male had a history of fever of 1 week. He was not a diabetic or hypertensive. There was no history of trauma. After few days, he developed headache with vomiting which was associated with low backache. This was followed with gradual onset of weakness of lower limbs and urinary incontinence. The weakness worsened over the next few days to flaccid paralysis in both lower limbs. He was taken to a local hospital from where he was referred to us. On examination, he was conscious but not oriented. There were patchy ecchymotic patches on his sacral region. GCS was E4V4M5 along with Grade 0 power of lower limbs. Investigations revealed he had severe thrombocytopenia (platelet count 20,000/mm3) which prompted further evaluation for dengue in view of ongoing epidemic. He was positive for dengue IgM antibodies. His INR was 1.3 and APTT was 45 s. CT scan revealed diffuse patchy subarachnoid hemorrhages along with intraventricular bleed. MRI spine showed subdural and intramedullary hematoma in the thoracolumbar region.",
+    "diagnostic_reasoning": {
+      "reasoning": "Severe thrombocytopenia with subarachnoid, intraventricular and thoracolumbar hematomas; positive dengue IgM antibodies established Dengue.",
+      "direct_quote": "He was positive for dengue IgM antibodies"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 19,
+    "case_id": "PMC4329688_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "13",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC4329688_IJRI-25-52-g001_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC4329688_IJRI-25-52-g001_B_2_2.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC4329688_IJRI-25-52-g002_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC4329688_IJRI-25-52-g002_B_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 13-year-old girl presented to the emergency department with history of fever, severe headache, and vomiting of 3 days duration. She had an episode of generalized tonic clonic seizure at the time of presentation. On examination, she was conscious, oriented and her vital parameters were stable. Neurological and fundoscopic examinations were within normal limits. Laboratory investigations revealed blood hemoglobin of 14 g/dl, neutrophil count of 12,000 cells/mm3, and platelet count of 50,000 cells/mm3. Liver and renal parameters and D-dimer level were within normal limits. USG (GE healthcare, Logiq P6, Milwaukee, USA) of the abdomen revealed mild bilateral pleural effusion and minimal free fluid in pelvis. Serology and CSF analysis for dengue (IgM and IgG antibodies) was positive, confirming the etiology. MRI revealed multifocal T2-weighted and FLAIR hyperintensities in bilateral cerebral hemispheres including basal ganglia. Diagnosis of acute viral encephalitis was made based on the clinical and imaging findings.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever with encephalopathy and multifocal T2/FLAIR hyperintensities on MRI; positive dengue IgM and IgG serology and CSF analysis established Dengue.",
+      "direct_quote": "Serology and CSF analysis for dengue (IgM and IgG antibodies) was positive"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 20,
+    "case_id": "PMC10805995_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Transverse myelitis",
+    "patients": [
+      {
+        "age": "49",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10805995_CCR3-12-e8461-g002_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 49-year-old female with no known comorbidities presented with history of fever, generalized body weakness and loss of appetite and who had been diagnosed with dengue fever after positive results of NS1 antigen and was under oral Paracetamol 500 mg per oral (as per required) presented to emergency room with retention of urine after 5 days of her initial symptoms. She was discharged with Foley's catheter in situ. Two days following this, she presented to ER again with inability to stand and walk which was associated with weakness and tingling sensation of bilateral lower limbs. She also complained of burning sensation over dorsal aspect of right foot for 3 years but had no history of any known comorbidities like diabetes, hypertension, or thyroid disorders. Her vitals were stable and central nervous system examination showed intact higher mental functions. There were no signs of meningeal irritation. Provisional diagnosis of TM was made based on patient's symptoms and correlating with the examination and investigations.",
+    "diagnostic_reasoning": {
+      "reasoning": "Inability to stand or walk with burning sensation after NS1-positive dengue fever; clinical and examination correlation supported provisional transverse myelitis.",
+      "direct_quote": "diagnosed with dengue fever after positive results of NS1 antigen"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 21,
+    "case_id": "PMC8183367_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "38",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC8183367_IJCIIS-11-39-g001_a_1_4.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC8183367_IJCIIS-11-39-g001_d_4_4.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC8183367_IJCIIS-11-39-g001_c_3_4.webp"
+      }
+    ],
+    "case_presentation": "A 38-year-old man, forest guard, resident of a hilly station of Himalayas, having schizophrenia for the past 15 years, being on antipsychotics: aripiprazole and trihexyphenidyl, presented to the emergency department with high-grade, intermittent fever for 7 days along with myalgia and headache. Following 4 days of fever, he developed multiple painless rashes over the soles of both feet and ankles. The rashes were reddish at the onset and later blackened. There was no gangrene formation or bleeding tendency. He reported breathlessness on exertion and later on in the supine position, but not paroxysmal nocturnal dyspnea. Breathlessness was associated with progressive bilateral leg edema and generalized weakness. He had decreased urine output for 1 day. There was no other history of any localizing symptoms. There was no history of substance use, alcohol intake, smoking, or any other comorbidity except above psychiatry illness. He was evaluated in an outside hospital where dengue NS1 antigen (on day 3 of illness) was positive along with low platelet count (40,000/mm3).",
+    "diagnostic_reasoning": {
+      "reasoning": "Painless blackening rashes with leg edema and decreased urine output; positive NS1 antigen with low platelet count established Dengue.",
+      "direct_quote": "dengue NS1 antigen (on day 3 of illness) was positive along with low platelet count"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 22,
+    "case_id": "PMC10028085_01",
+    "underlying_disease": "Leptospirosis",
+    "final_diagnosis": "Leptospirosis",
+    "patients": [
+      {
+        "age": "28",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10028085_fsurg-10-1131659-g001_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10028085_fsurg-10-1131659-g003_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC10028085_fsurg-10-1131659-g003_B_2_2.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC10028085_fsurg-10-1131659-g004_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC10028085_fsurg-10-1131659-g004_B_2_2.webp"
+      }
+    ],
+    "case_presentation": "Our patient is a 28-year-old male from Gaza who was transferred to our hospital's medical intensive care unit (ICU) because of complicated leptospirosis. His past surgical and medical history was insignificant. Ten days before admission, the patient had a rat bite in his left big toe, so he sought medical advice, where he was given a tetanus vaccine and discharged with a recommendation to follow up at the infectious clinic. Later on, the patient started complaining of nonspecific symptoms of headache, general weakness, and myalgia, for which he took analgesics. However, his symptoms worsened, and he started to notice a yellowish discoloration all over his body, associated with fever. So, he was admitted to the medical ward in Gaza, where Investigations were performed and confirmed the diagnosis of leptospirosis. Those revealed alveolar hemorrhage, cholestatic jaundice, and acute kidney injury. The patient's condition rapidly deteriorated, requiring intubation and urgent transfer to our hospital for Advanced ICU management. Upon arrival, the Patient was admitted to the ICU immediately.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever with deep jaundice, acute kidney injury and CT alveolar hemorrhage; confirmatory investigations in Gaza established Leptospirosis.",
+      "direct_quote": "Investigations were performed and confirmed the diagnosis of leptospirosis"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 23,
+    "case_id": "PMC3714027_01",
+    "underlying_disease": "Leptospirosis",
+    "final_diagnosis": "Leptospirosis",
+    "patients": [
+      {
+        "age": "33",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC3714027_JCHIMP-1-7042-g001_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC3714027_JCHIMP-1-7042-g002_A_1_3.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC3714027_JCHIMP-1-7042-g002_B_2_3.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC3714027_JCHIMP-1-7042-g002_C_3_3.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC3714027_JCHIMP-1-7042-g003_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 33-year-old African American male with no significant past medical history presented to an emergency department in Baltimore, Maryland in late November 2010 complaining of 4 days of progressive generalized muscle pain, fever, and shaking chills. He also reported abdominal pain, diarrhea, tea-colored urine, jaundice, decreased urinary output, headache, and drowsiness. He denied smoking, alcohol, or illicit drugs. He was sexually active with one female partner. Hepatitis and HIV panel had tested negative a few months before. His temperature was 39.3, blood pressure was 102/67 mm Hg, pulse rate was 125 beats per minute. Renal biopsy showed acute interstitial nephritis and tubular necrosis. Due to high clinical suspicion for leptospirosis, serology testing by indirect hemagglutination was repeated 10 days after the first sample. This was positive at 1:400 titer, confirmatory for the diagnosis.",
+    "diagnostic_reasoning": {
+      "reasoning": "Febrile illness with acute interstitial nephritis and tubular necrosis on renal biopsy; positive indirect hemagglutination titer 1:400 established Leptospirosis.",
+      "direct_quote": "This was positive at 1:400 titer, confirmatory for the diagnosis"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 24,
+    "case_id": "PMC8627985_01",
+    "underlying_disease": "Leptospirosis",
+    "final_diagnosis": "Leptospirosis",
+    "patients": [
+      {
+        "age": "39",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC8627985_gr1_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC8627985_gr2_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC8627985_gr3_C_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 39-year-old man engaged in forestry developed fatigue, lower leg pain, headache, diarrhea and vomiting in late July 2020 and was hospitalized for suspected infection. His heart rate was 114 beats/min, blood pressure 109/79 mmHg, and body temperature 39.4 C. His blood oxygen saturation was 96%; however, bloody sputum was present. He complained of severe pain in the lower legs. Laboratory data showed an increased white blood cell count with neutrophil predominance, thrombocytopenia, elevated transaminases without hyperbilirubinemia, raised urea nitrogen and creatinine, and granular and epithelial casts in the urine. Computed tomography showed central lobular shadows and pale ground-grass shadows in both lungs, suggesting alveolar hemorrhage. On day 2, mice were reported in his living environment and leptospirosis was considered. On day 10, the PCR of the urine samples showed positive leptospiral DNA; thus, a diagnosis of leptospirosis was established. Paired sera showed significantly increased antibody titers to two Leptospira interrogans serovars.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever, leg pain, alveolar hemorrhage, thrombocytopenia and acute kidney injury after rodent exposure; positive urine leptospiral PCR and rising MAT titers established leptospirosis.",
+      "direct_quote": "the PCR of the urine samples showed positive leptospiral DNA"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 25,
+    "case_id": "PMC7183660_01",
+    "underlying_disease": "Leptospirosis",
+    "final_diagnosis": "Leptospirosis",
+    "patients": [
+      {
+        "age": "20",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC7183660_40560_2020_447_Fig1_HTML_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 20-year-old male trout farm worker presented to his local hospital with a 3-day history of malaise, fevers, diarrhoea, vomiting and jaundice. He developed haemoptysis, severe headaches, neck stiffness and photophobia, leading to emergency admission. There were no rashes, swellings, nor melaena. He remained hypoxic despite supplemental oxygen and after a short admission to the high-dependency unit he was intubated and ventilated in the intensive care unit (ICU). A post-intubation chest x-ray showed four-quadrant airspace 'ground glass' opacification. His admission bloods demonstrated haemoglobin (Hb) 99 g/l, platelets 25,000/mul, white blood cells (WBC) 10,400/mul, C-reactive protein (CRP) 195 mg/dl, creatinine 392 mumol/l, urea 17 mmol/l and total bilirubin 117 mumol/l. Empirical ceftriaxone was initiated following sequential escalating regimens of amoxicillin, gentamicin, metronidazole, then piperacillin-tazobactam and levofloxacin, following local microbiology advice. On day 1 of his time on ECMO, positive serum Leptospira Panbio IgM ELISA and dual-target real-time 16SrRNA/Lipl32 polymerase chain reaction (PCR) results became available, confirmed by the reference laboratory.",
+    "diagnostic_reasoning": {
+      "reasoning": "Haemoptysis, thrombocytopenia and raised creatinine with hypoxia needing ECMO; positive Leptospira IgM ELISA and PCR established Leptospirosis.",
+      "direct_quote": "positive serum Leptospira Panbio IgM ELISA and dual-target real-time 16SrRNA/Lipl32 polymerase chain reaction"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 26,
+    "case_id": "PMC3290876_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Symmetrical peripheral gangrene",
+    "patients": [
+      {
+        "age": "54",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC3290876_PAMJ-10-46-g001_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 54 years old male Ugandan presented to Kenyatta National Hospital, a major referral tertiary hospital, in Kenya. He had initially reported with headache and joint pain to a local health facility in Uganda and was diagnosed to have severe Plasmodium falciparum malaria infection, and thereafter treatment with intravenous quinine commenced. Treatment at the facility had been responsive; however two days after the onset, the patient started experiencing episodes of headache, pain, numbness, coldness, and swelling of the extremities. This was followed by darkening of the digits of his toes and hands, which gradually progressed proximally. On presentation at out institution, he was conscious, alert, oriented, but lethargic and unable to walk. He was a non-smoker and non-alcoholic, and had no history of diabetes, hypertension or any angiopathies. The Dorsalis pedis pulses showed absence of blood flow, and a diagnosis of Symmetrical peripheral gangrene was made. Time was allowed for marginalization of the gangrene, which was noted two months later.",
+    "diagnostic_reasoning": {
+      "reasoning": "Severe falciparum malaria followed by darkening of toes and hands with absent dorsalis pedis flow; marginalization of gangrene established symmetrical peripheral gangrene.",
+      "direct_quote": "a diagnosis of Symmetrical peripheral gangrene was made"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 27,
+    "case_id": "PMC5333739_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Malaria",
+    "patients": [
+      {
+        "age": "11",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC5333739_mjhid-9-1-e2017023f1_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC5333739_mjhid-9-1-e2017023f2_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "We report the case of an 11-year-old Nigerian boy, living in Italy since 2010. On August, 26th he flew back from a one-month stay in Nigeria, and two days later he started presenting fever. On August, 31st he complained vomiting and abdominal pain and was then conducted to the Emergency Room of our Hospital. Here, after an initial suspect of appendicitis, a diagnosis of Plasmodium falciparum malaria was made, and the patient was admitted to the Infectious Diseases ward. Body temperature was 38 C, while other vital signs were normal. His complete blood count showed leukopenia (WBC 4060, nv 4500-10800) and thrombocytopenia (PLT 59,000, nv 100,000-400,000), while hemoglobin was 13 g/dL (nv 13-16.5 g/dL). His chemistry profile showed hyperbilirubinemia (2.93 mg/dL, nv 0.2-0.5 mg/dL), AST 136 UI/L and ALT 122 UI/L (nv 13-51 UI/L and 15-47 UI/L, respectively), creatinine was 1.06 mg/dL (nv 0.3-0.9 mg/dL) and an increase of LDH values (657 U/L) was present (nv 120-330 U/L); C-reactive protein was 85.6 mg/L (nv <5 mg/L).",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever and abdominal pain initially suspected as appendicitis, with leukopenia and thrombocytopenia; diagnosis of Plasmodium falciparum malaria established Malaria.",
+      "direct_quote": "a diagnosis of Plasmodium falciparum malaria was made"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 28,
+    "case_id": "PMC4326998_02",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Cerebral malaria complicated by subarachnoid hemorrhage",
+    "patients": [
+      {
+        "age": "25",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC4326998_TP-5-61-g001_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 25-year-old male presented with fever, chills and rigor, severe headache, vomiting, convulsions, and altered sensorium for 6 days. He was comatose and febrile (102 F), with pulse 130/min and BP 140/70 mm Hg. Neurological examination revealed bilateral constricted sluggish-reacting pupils, bilaterally extensor plantar responses, decerebrate posturing, and mild neck rigidity. Blood counts revealed a normocytic, normochromic anemia (hemoglobin 9.7 g/dl), ESR 28 mm/h, and platelet count of 75,000/cu.mm. Thick and thin blood smears revealed ring forms and gametocytes of P. falciparum, and the immunochromatographic test for PfHRP-2 was strongly positive. Biochemical and urine investigations were normal, and HIV testing was negative. A clinical diagnosis of cerebral malaria caused by P. falciparum was established, and intravenous artesunate was started. Because sensorium did not improve after 3 days, a non-contrast computed tomography scan of the brain was done and revealed subarachnoid hemorrhage. Coagulation screen was normal, and magnetic resonance angiography showed no aneurysm or arteriovenous malformation.",
+    "diagnostic_reasoning": {
+      "reasoning": "Coma and fever with decerebrate posturing; P. falciparum ring forms, gametocytes and strongly positive PfHRP-2 test established cerebral malaria complicated by subarachnoid hemorrhage.",
+      "direct_quote": "revealed ring forms and gametocytes of P. falciparum"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 29,
+    "case_id": "PMC8329521_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Artesunate-induced delayed hemolysis",
+    "patients": [
+      {
+        "age": "35",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC8329521_gr1_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC8329521_gr2_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC8329521_gr2_B_2_2.webp"
+      }
+    ],
+    "case_presentation": "We present the case of a previously healthy 35-year-old female, who presented to our emergency department (ED) complaining of high-grade fever of waxing-and-waning nature for five days, associated with vomiting, body aches and sleepiness. She works at a local bank and developed fever during her mandated hotel quarantine upon return from a holiday in Sudan seven days ago, during which she was not on malaria prophylaxis. COVID-19 PCR from nasopharyngeal swab was negative. She did not improve despite anti-pyretics and anti-emetics during the hotel quarantine, and sought medical advice at a private clinic where she tested positive for malaria and was referred to our hospital for inpatient management. Patient reported that she had previous history of malaria 10 years ago but not as severe. Malarial smears were positive for Plasmodium falciparum with a parasitemia level of 27 %. Coombs' test was positive with low complement 4 (C4). Direct antiglobulin test was also positive, along with high LDH and low haptoglobin.",
+    "diagnostic_reasoning": {
+      "reasoning": "Falciparum parasitemia of 27% treated with artesunate, then hemolysis; positive direct antiglobulin test with high LDH and low haptoglobin established artesunate-induced delayed hemolysis.",
+      "direct_quote": "Direct antiglobulin test was also positive, along with high LDH and low haptoglobin"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 30,
+    "case_id": "PMC8213119_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Malaria",
+    "patients": [
+      {
+        "age": "6",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC8213119_TP-11-46-g001_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 6-year-old female childadmitted to pediatrics emergency with high-grade fever without chills and rigors past 7 days, progressive pallor past 5 days, and bluish spots over the whole body for 2 days. In detailed history, she had a fever without any symptoms of vomiting, jaundice, or hematuria. There was no history oft previous hospitalization. At admission, a child was lethargic, febrile (102 F), severely pallor, petechial rashes, cervical lymphadenopathy, and body pain (paroxysms) with the features of shock. In the systemic examination, hepatosplenomegaly in per abdomen examination and respiratory, cardiovascular finding (except hemic murmur) were within normal limits. Initially, we kept as lymphoreticular malignancy with febrile neutropenia and start supportive as well as symptomatic treatment and malignancy workup planed. After stabilization, bone marrow aspiration as well as biopsy was done. Bone marrow aspiration and biopsy revealed hemophagocytosis. In peripheral smear, malaria parasite was seen as trophozoites for Pf malaria and revised the diagnosis as malaria-associated secondary HLH (sHLH) and the anti-malarial drug was started.",
+    "diagnostic_reasoning": {
+      "reasoning": "Persistent high-grade fever with hemophagocytosis on bone marrow biopsy; peripheral smear trophozoites of Plasmodium falciparum established Malaria.",
+      "direct_quote": "malaria parasite was seen as trophozoites for Pf malaria"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 31,
+    "case_id": "PMC10932508_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Malaria",
+    "patients": [
+      {
+        "age": "52",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10932508_jchim-14-01-001f1_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10932508_jchim-14-01-001f2_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC10932508_jchim-14-01-001f3_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 52-year-old female presented to the emergency department of a rural community hospital in New Hampshire with severe fatigue. She had been diagnosed with COVID-19 three weeks earlier and was otherwise healthy. She was afebrile with a heart rate of 126 beats/min, blood pressure 102/58 mm Hg, and respiratory rate 20 breaths/min, and the physical exam was significant for scleral icterus. Repeat laboratory tests after 5 h showed a further drop in Hb to 7.8 g/dl and persistent thrombocytopenia. A peripheral blood smear was performed. She was initially treated for presumed babesiosis, but she then reported recent travel to Sierra Leone without malaria chemoprophylaxis. On review, the smear showed numerous ring-formed parasitic trophozoites and occasional cluster schizont forms within RBCs, with a very high parasite load estimated at 39.3%. Concurrent microbiology testing was positive for Plasmodium falciparum antigen. In the light of these findings, the patient was diagnosed with severe malaria due to Plasmodium falciparum.",
+    "diagnostic_reasoning": {
+      "reasoning": "Severe fatigue, anemia, thrombocytopenia and scleral icterus after Sierra Leone travel; positive P. falciparum antigen with ring trophozoites established Malaria.",
+      "direct_quote": "Concurrent microbiology testing was positive for Plasmodium falciparum antigen"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 32,
+    "case_id": "PMC3299142_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Splenic rupture",
+    "patients": [
+      {
+        "age": "42",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC3299142_JETS-5-100-g001_a_1_4.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC3299142_JETS-5-100-g001_b_2_4.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC3299142_JETS-5-100-g001_c_3_4.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC3299142_JETS-5-100-g001_d_4_4.webp"
+      }
+    ],
+    "case_presentation": "A 42-year-old Italian man, who had been living in Nigeria because of his job since two years, was urgently repatriated following diagnosis of acute Plasmodium falciparum malaria. Fourteen days after anti-malarial treatment started, with quick resolution of fever, he suddenly complained of acute left flank pain. At emergency department admission, his vital parameters appeared stable. Physical examination revealed tender left hemiabdomen without frank peritonism. Laboratory tests disclosed severe anemia (hemoglobin 7.7 g/dL), moderate leukocytosis, markedly elevated C-Reactive Protein (232 mg/L), plasma D-Dimer (2188 ug/L), lactic dehydrogenase (654 IU/L) and creatine kinase (1255 IU/L); platelet count and coagulation assays were within normal limits. Rapid blood assay tested positive for P. falciparum antigen, with negative blood cultures for bacteria and parasites. Prompt investigation with multi-detector CT allowed confident diagnosis of diffuse, moderately hyperdense peritoneal effusion consistent with hemoperitoneum and splenomegaly with hyperdense, stratified subcapsular and perisplenic clotted hematoma. Urgent laparotomic surgery confirmed abundant hemorrhagic peritoneal effusion without detectable active bleeding. Splenomegaly with multiple blood clots was resected.",
+    "diagnostic_reasoning": {
+      "reasoning": "Acute flank pain and anemia after treated falciparum malaria; CT hemoperitoneum with perisplenic clotted hematoma and splenectomy for a hemorrhagic spleen established splenic rupture.",
+      "direct_quote": "Splenomegaly with multiple blood clots was resected"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 33,
+    "case_id": "PMC4395950_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Acute disseminated encephalomyelitis",
+    "patients": [
+      {
+        "age": "14",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC4395950_JPN-10-58-g002_a_1_3.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC4395950_JPN-10-58-g002_b_2_3.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC4395950_JPN-10-58-g002_c_3_3.webp"
+      }
+    ],
+    "case_presentation": "A 14-year-old female student was treated at our hospital for PV (diagnosed by slide and antigen test) with antimalarials and discharged uneventfully after 3 days. She presented to us 2 weeks later with acute gait and limb ataxia, dysarthria, and bilateral visual blurring since 2 days. She denied a history of any other symptom. She had not lost consciousness and did not report any history of seizures. There was no history suggestive of any respiratory, gastrointestinal, skin, exanthema or any other infection (except PV) in 4 weeks prior to the current symptoms. On examination, she had bilateral optic neuritis, horizontal gaze-evoked nystagmus, dysarthria, and limb and truncal ataxia. Rest examination was normal. Her complete blood count, renal and hepatic functions, blood glucose, electrolytes, human immunodeficiency virus - enzyme-linked immunosorbent assay, hepatitis B and C and serological test for syphilis were normal. Brain magnetic resonance imaging (MRI) showed T1-weighted isointense and T2 and fluid-attenuated inversion recovery hyperintense signal in bilateral cerebellar hemispheres including vermis, with minimal diffusion restriction and nongadolinium enhancement.",
+    "diagnostic_reasoning": {
+      "reasoning": "Ataxia, dysarthria and bilateral optic neuritis weeks after treated vivax malaria; bilateral cerebellar T2/FLAIR hyperintensities on MRI established acute disseminated encephalomyelitis.",
+      "direct_quote": "hyperintense signal in bilateral cerebellar hemispheres including vermis"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 34,
+    "case_id": "PMC3401657_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Malaria",
+    "patients": [
+      {
+        "age": "3",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC3401657_JPN-7-52-g001_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 3-year-old male child resident of Gorakhpur was admitted with complaints of fever for 12 days which was high grade, convulsions (generalized tonic clonic) for 6 days and altered sensorium for 1 day. Examination revealed a febrile child with temperature of 103 F, pulse of 158/min which was feeble, RR of 54/min, blood pressure of 56/32 mm Hg, and Glasgow coma score of 4. Systemic examination revealed hepatosplenomegaly, bilateral rhonchi in chest, tachypnea, tachycardia, extensor planters, and diminished deep tendon reflexes. Investigation of the patient revealed hemoglobin of 9.5 g%, normal cell count and platelet count of 1.8 lakh/ mm3, SGPT of 109 U/ll, urea of 87 mg% and blood glucose of 50 mg%. A rapid diagnostic test for malarial parasites was positive for both P.vivax and P.falciparum. Peripheral blood smear, both thick and thin film, was sent which showed the presence of both P.vivax and P.falciparum (parasitic count of 6%).",
+    "diagnostic_reasoning": {
+      "reasoning": "Prolonged fever with hepatosplenomegaly; rapid test and smear showing P. vivax and P. falciparum with 6% parasitic count established Malaria.",
+      "direct_quote": "showed the presence of both P.vivax and P.falciparum"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 35,
+    "case_id": "PMC5015625_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Malaria",
+    "patients": [
+      {
+        "age": "39",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC5015625_OC-05-13-g-001_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC5015625_OC-05-13-g-002_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC5015625_OC-05-13-g-003_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC5015625_OC-05-13-g-004_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC5015625_OC-05-13-g-005_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "We report a 39-year-old caucasian man who has lived in Angola for 4 years. He presented to a hospital in California, during a trip, with a flu-like syndrome, jaundice and altered state of consciousness. On hospital admission, he had hemolytic anemia, thrombocytopenia, acidemia and acute renal failure. After the diagnosis of Plasmodium falciparum malaria, the patient initiated therapy with quinine and doxycycline, although developing severe encephalopathy (coma). After therapy with artesunate, he had hematologic and neurological improvement, and was transferred to Portugal. On initial eye examination at our hospital, he had 20/20 visual acuity in the right eye and a central scotoma in the left eye. Right eye indirect ophthalmoscopy revealed round deep layer retinal hemorrhage, with one disc diameter of radius, in the superior temporal arcade. Left eye indirect ophthalmoscopy showed a foveal hemorrhage, several superficial hemorrhages in the interpapillomacular bundle, and a deep white-centered peripheral hemorrhagic lesion. Fluorescein angiography was not performed given the deterioration of the renal function warranting hemodialysis.",
+    "diagnostic_reasoning": {
+      "reasoning": "Coma and renal failure with retinal hemorrhages on ophthalmoscopy; confirmed Plasmodium falciparum malaria established Malaria.",
+      "direct_quote": "After the diagnosis of Plasmodium falciparum malaria, the patient initiated therapy with quinine and doxycycline"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 36,
+    "case_id": "PMC10911190_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Malaria",
+    "patients": [
+      {
+        "age": "78",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10911190_TP-14-45-g001_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "Here, we report the case of a 78-year-old female with a history relevant for multiple trips to the African Continent on missionary work over the last 25 years using mefloquine as prophylaxis against malaria as directed. She gave no previous history of symptomatic malaria despite her multiple trips to Sub-Saharan Africa. She presented approximately 1 month after returning to the U.S.A from her trip to Africa with a 10-day history of fever and chills. On presentation, she had a high fever of 103.7 F. Laboratory data were relevant for leukopenia, anemia, mildly elevated liver function tests, and an ultrasound with nonobstructing gallstones without murphy sign. She was admitted with a working diagnosis of possible cholecystitis and was expected to undergo surgery. Malaria was suspected due to her relevant travel history and appropriate labs were requested. Peripheral blood smear for parasites showed intraerythrocytic inclusion body suggestive of malaria, identified as malaria with specific Malaria Protein Antigen. Species was confirmed as P. malariae by Plasmodium species polymerase chain reaction (PCR) methodology.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever with abdominal pain mimicking cholecystitis; smear intraerythrocytic inclusions and species PCR confirming P. malariae established Malaria.",
+      "direct_quote": "Species was confirmed as P. malariae by Plasmodium species polymerase chain reaction"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 37,
+    "case_id": "PMC3396855_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Duodenal perforation",
+    "patients": [
+      {
+        "age": "12 months",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC3396855_PAMJ-12-1-g001_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A previously healthy 12-month old boy was referred from a clinic to the Kintampo Municipal Hospital (Kintampo, Ghana). He had presented at the clinic with a 2-day history of fever and vomiting. On admission to the clinic, diagnosis of severe anaemia secondary to Malaria was made. Despite treatment with IV fluid, IM Quinine and a blood transfusion, his condition deteriorated and he began to pass bloody stools. After two days he was referred to hospital for further management. On arrival, the child had a reduced conscious level. He was febrile (39.5 C) and pale with pulse and respiration rates 110 beat/min and 60 breaths/min respectively. Blood film was positive for malaria parasites. Haemoglobin was 4.2g/dL and white blood cell count 16.4 x 109. Supine abdominal X-ray showed air fluid levels. Treatment of severe anaemia secondary to malaria and suspected typhoid was continued. An exploratory laparotomy was performed. A 1.5cm anterior perforation of the duodenal wall was found, with bleeding from the posterior duodenal wall.",
+    "diagnostic_reasoning": {
+      "reasoning": "Malaria-related severe anemia, then abdominal air-fluid levels on X-ray; laparotomy finding a 1.5 cm anterior duodenal wall perforation established duodenal perforation.",
+      "direct_quote": "A 1.5cm anterior perforation of the duodenal wall was found"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 38,
+    "case_id": "PMC6145115_01",
+    "underlying_disease": "Melioidosis",
+    "final_diagnosis": "Melioidosis",
+    "patients": [
+      {
+        "age": "56",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC6145115_40794_2018_73_Fig1_HTML_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC6145115_40794_2018_73_Fig2_HTML_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC6145115_40794_2018_73_Fig5_HTML_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 56 year old Sri Lankan female presented with fever, chills and rigors for 2 weeks. She was diabetic and her glycaemic control was fairly good with oral hypoglycaemic drugs: fasting blood sugar was 112 mg/dl and HbA1C was 5.7%. At presentation, fever was associated with constitutional symptoms like malaise and loss of appetite, but she didn't have any other symptoms on systemic review. She is a housewife, not engaged in gardening or farming. On the third day of admission, blood culture reported positive with the growth of Burkholderia cepacia. She was started on IV ceftazidime 2 g every 6 h, with the suspicion of Burkholderia pseudomallei and melioidosis serology was ordered. Colony morphology consisted of grey-white small, smooth colonies. The melioidosis antibody titer Ig M was 1:640, measured by enzyme linked immunosorbent assay (ELISA). The isolate was confirmed as Burkholderia pseudomallei by PCR the following day.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever, chills and rigors for 2 weeks with positive blood culture; isolate confirmed as Burkholderia pseudomallei by PCR with IgM titer 1:640 established Melioidosis.",
+      "direct_quote": "The isolate was confirmed as Burkholderia pseudomallei by PCR the following day"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 39,
+    "case_id": "PMC8549391_01",
+    "underlying_disease": "Melioidosis",
+    "final_diagnosis": "Melioidosis",
+    "patients": [
+      {
+        "age": "52",
+        "gender": "not stated"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC8549391_acmi-3-0260-g001_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC8549391_acmi-3-0260-g002_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC8549391_acmi-3-0260-g003_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC8549391_acmi-3-0260-g004_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 52-year-old painter presented to the outpatient department of a tertiary care teaching hospital with chief complaints of recurrent episodes of fever with chills throughout February 2021. He also complained of dull, aching, continuous, non-migratory pain in bilateral feet, the right knee, the right shoulder joint and the neck for the previous 20 days. This was accompanied by swelling of bilateral upper and lower limbs. The patient had a history of losing weight over the previous 4 years and uncontrolled diabetes mellitus for 8 years. He was also a heavy alcohol consumer (>5 drinks/day) and a chronic smoker. The patient belonged to a lower socioeconomic class corresponding to a score of 5 on a modified Kuppuswamy scale. Blood culture flagged positive within 48 h of incubation. The organism was presumptively identified as Burkholderia pseudomallei by routine biochemical reactions. The identification was confirmed using the VITEK-II Compact system with 98 % concordance.",
+    "diagnostic_reasoning": {
+      "reasoning": "Uncontrolled diabetes with painful swollen limbs; positive blood culture identified as Burkholderia pseudomallei and confirmed by VITEK-II established Melioidosis.",
+      "direct_quote": "The identification was confirmed using the VITEK-II Compact system"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 40,
+    "case_id": "PMC6233691_01",
+    "underlying_disease": "Melioidosis",
+    "final_diagnosis": "Melioidosis",
+    "patients": [
+      {
+        "age": "57",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC6233691_imcrj-11-319Fig1_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC6233691_imcrj-11-319Fig3_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 57-year-old man with type-II diabetes presented with a recurrent wound infection on his right sole. The ulcer started spontaneously as a blister 3 months earlier, and he had a history of similar ulcers on his right foot 7 years earlier. He also had hypertension and peripheral artery disease. Examination revealed an infected ulcer on the sole, 5x4 cm, with depth reaching the muscle layer, and the right foot had thickened nails and Charcot foot. Laboratory examination found slight anemia (Hb 11.5 g/dL) and hyperglycemia (random blood glucose 337 mg/dL). Empiric antibiotics, and later antibiotics adjusted to a Pseudomonas culture, did not improve the wound. Since the patient had a history of recurrent abscesses, melioidosis was among the differential diagnoses. Microbiology examination on a swab sample from the wound base revealed B. pseudomallei. Nested PCR then confirmed the presence of the 16S rRNA gene of B. pseudomallei.",
+    "diagnostic_reasoning": {
+      "reasoning": "Chronic diabetic foot ulcer unresponsive to antibiotics; wound-base culture and nested 16S rRNA PCR identifying B. pseudomallei established Melioidosis.",
+      "direct_quote": "Microbiology examination on a swab sample from the wound base revealed B. pseudomallei"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 41,
+    "case_id": "PMC11774432_01",
+    "underlying_disease": "Melioidosis",
+    "final_diagnosis": "Melioidosis",
+    "patients": [
+      {
+        "age": "31",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC11774432_TJEM-25-63-g001_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC11774432_TJEM-25-63-g002_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC11774432_TJEM-25-63-g003_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 31-year-old man presented to the emergency department (ED) with a 10-day history of fever, 5 days of jaundice, and 3 days of altered consciousness. His liver and kidney functions were abnormal, and his lipase levels were elevated. Contrast-enhanced computed tomography (CT) imaging of the abdomen was reported to have multiple splenic infarcts. In this context, he was referred to as a case of acute undifferentiated febrile illness. He had a continuous high-grade fever associated with chills and rigor for 10 days. Later, he developed a cough with expectoration, which was insidious in onset with whitish, nonblood-stained mucoid sputum. He also noticed yellowish discoloration of the eyes and urine 5 days after the fever onset. Seven days after the beginning of the fever, he developed altered sensorium in the form of reduced responsiveness and irrelevant talk. Based on the findings, meropenem was initiated for suspected melioidosis, and later blood cultures confirmed the presence of Burkholderia pseudomallei.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever with altered sensorium and multiple splenic infarcts on contrast CT; blood cultures confirming Burkholderia pseudomallei established Melioidosis.",
+      "direct_quote": "later blood cultures confirmed the presence of Burkholderia pseudomallei"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 42,
+    "case_id": "PMC3959514_01",
+    "underlying_disease": "Melioidosis",
+    "final_diagnosis": "Melioidosis",
+    "patients": [
+      {
+        "age": "47",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC3959514_AnnGastroenterol-26-77-g001_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC3959514_AnnGastroenterol-26-77-g002_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 47-year-old Indian male, presented with high-grade fever and left-sided pleuritic chest pain of 3-week duration. He complained of anorexia and significant weight loss of 6 kg in the last 1 month. There were no other respiratory symptoms, jaundice or bowel symptoms. The patient was diagnosed with diabetes and was on insulin therapy for the past 5 years. He was treated with Isoniazid (H), Rifampicin (R), and Pyrazinamide (Z) for 2 months and with H, R and Z for 4 months. He was treated for small joint arthritis for 3 months prior to presentation. Contrast-enhanced CT scan of the abdomen revealed a splenic abscess with a breech in the capsule and extension of abscess into the perisplenic area. The aspirate from the abscess revealed catalase- and oxidase-positive bacillus with bipolar staining and violet colonies with central umbonation in Ashdown's selective agar, diagnostic of Burkholderia pseudomallei.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever, arthritis and weight loss with perisplenic abscess on CT; abscess aspirate bacillus with bipolar staining and violet Ashdown agar colonies established Melioidosis.",
+      "direct_quote": "violet colonies with central umbonation in Ashdown's selective agar"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 43,
+    "case_id": "PMC11795047_01",
+    "underlying_disease": "Melioidosis",
+    "final_diagnosis": "Melioidosis",
+    "patients": [
+      {
+        "age": "57",
+        "gender": "not stated"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC11795047_gr1_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC11795047_gr2_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 57-year-old construction site worker with poorly controlled diabetes mellitus and a history of heavy alcohol consumption presented with a 5-week history of low-grade fever, progressive shortness of breath and productive cough. He had received two courses of oral antibiotics for presumed community acquired pneumonia without response. He then developed painful swelling of the left elbow, and the next day right ankle swelling. He was febrile at 101 F, tachycardic at 120 bpm, with a blood pressure of 100/60 mmHg. Respiratory examination revealed right apical bronchial breathing, and the left elbow and right ankle were tender, swollen, red and warm with effusions. Chest imaging showed bronchiectasis in the right upper lobe with a thick-walled cystic cavity. Left elbow aspiration revealed 340000/mL polymorphs. Blood, sputum and left elbow joint aspirate cultures grew Burkholderia pseudomallei, sensitive to meropenem and trimethoprim/sulfamethoxazole. Under care of a multidisciplinary team, he was managed as a case of disseminated melioidosis with septic arthritis.",
+    "diagnostic_reasoning": {
+      "reasoning": "Febrile diabetic with unresolving lung cavity and septic arthritis; blood, sputum and joint cultures growing B. pseudomallei established Melioidosis.",
+      "direct_quote": "he was managed as a case of disseminated melioidosis with septic arthritis"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 44,
+    "case_id": "PMC11279980_01",
+    "underlying_disease": "Melioidosis",
+    "final_diagnosis": "Melioidosis",
+    "patients": [
+      {
+        "age": "65",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC11279980_gr2_a_1_3.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC11279980_gr2_b_2_3.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC11279980_gr2_c_3_3.webp"
+      }
+    ],
+    "case_presentation": "A 65-year-old man with chronic obstructive airway disease and end stage renal disease presented with a seven-day history of fever, productive cough, and progressive shortness of breath starting two days prior to his return from a two-week business travel to Thailand. Ten days preceding his current illness, he was inadvertently exposed to repetitive water splashes to his face during Thailand's Songkran festival at Pattaya city in Eastern Thailand. The patient is a frequent business traveler to Thailand for more than 30 years with his most recent visit coinciding with Thailand's Songkran festival. Physical examination revealed an ill-looking, toxic, and anxious patient with mild pallor, uremic fetor, asterixis, and signs of respiratory distress. Subculture plates of both sets of blood culture showed colonies that were shiny, wet, non-lactose fermenting, and growing well on all standard media. Subsequently, 16 S rRNA gene sequencing identified the organism as Burkholderia pseudomallei with a matching score of 99.8 %.",
+    "diagnostic_reasoning": {
+      "reasoning": "Toxic-looking patient with chronic obstructive airway disease and end-stage renal disease; blood cultures and 16S rRNA sequencing identifying Burkholderia pseudomallei established Melioidosis.",
+      "direct_quote": "16 S rRNA gene sequencing identified the organism as Burkholderia pseudomallei"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 45,
+    "case_id": "PMC7276627_01",
+    "underlying_disease": "Melioidosis",
+    "final_diagnosis": "Melioidosis",
+    "patients": [
+      {
+        "age": "48",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC7276627_JOCR-9-95-g006_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC7276627_JOCR-9-95-g007_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC7276627_JOCR-9-95-g009_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 48-year-old farmer from South India, with poorly controlled type 2 diabetes mellitus and occupational exposure to soil, presented with severe left elbow pain, followed by mild bilateral knee and right ankle pain for 3 months and intermittent fever for 10 days. His serology was negative for HIV. He was febrile, tachypneic, tachycardic, pale and mildly icteric, with mild hepatosplenomegaly and swelling and tenderness over the left elbow, both knees and the right ankle. Magnetic resonance imaging showed multifocal osteomyelitis. Erythrocyte sedimentation rate was 113 mm/h and C-reactive protein 72 mg/L. Left elbow pus culture grew Staphylococcus aureus, but symptoms recurred after 2 weeks of intravenous antibiotics. In view of occupation, uncontrolled diabetes mellitus and non-improvement, melioidosis was suspected, and bilateral knee and right ankle arthrotomy and debridement were performed. Tissue sample for PCR for melioidosis was positive, and serial blood cultures grew Gram-negative bacilli, later identified as B. pseudomallei.",
+    "diagnostic_reasoning": {
+      "reasoning": "Diabetic farmer with soil exposure and multifocal osteomyelitis; positive tissue PCR and blood cultures identifying B. pseudomallei established Melioidosis.",
+      "direct_quote": "Tissue sample for PCR for melioidosis was positive"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 46,
+    "case_id": "PMC7455599_01",
+    "underlying_disease": "Melioidosis",
+    "final_diagnosis": "Melioidosis",
+    "patients": [
+      {
+        "age": "63",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC7455599_IDR-13-2957-g0001_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC7455599_IDR-13-2957-g0001_B_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 63-year-old Thai male farmer residing in central Thailand presented with prolonged fever and non-productive cough for 3 months. He also complained of intermittent chest tightness at the left hemithorax and losing 4 kg of his weight. He was admitted to the local hospital and diagnosed with bacterial pneumonia at that time. He was, therefore, transferred to our hospital for further investigations. He had end-stage renal disease requiring deceased donor kidney transplantation 4 years ago. After transplantation, he was on immunosuppressive agents, including mycophenolate mofetil and cyclosporine. Acyclovir was also prescribed for herpes infection prophylaxis. He was referred to our hospital. Physical examination showed an asthenic patient with anicteric sclera. B. pseudomallei subsequently grew on tissue culture. His serum antibody titer against B. pseudomallei was positive with a titer of 1:1280. The patient was finally diagnosed with stage IIIA non-small cell lung cancer (T4N0M0) co-existing with localized pulmonary melioidosis.",
+    "diagnostic_reasoning": {
+      "reasoning": "Kidney-transplant recipient with left-sided chest tightness; tissue culture growing B. pseudomallei and antibody titer 1:1280 established Melioidosis.",
+      "direct_quote": "B. pseudomallei subsequently grew on tissue culture"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 47,
+    "case_id": "PMC3667463_01",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "Third ventricular neurocysticercosis with obstructive hydrocephalus",
+    "patients": [
+      {
+        "age": "42",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC3667463_AJNS-8-54-g001_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC3667463_AJNS-8-54-g001_b_2_2.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC3667463_AJNS-8-54-g002_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC3667463_AJNS-8-54-g002_b_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 42-year-old male presented with new onset seizures, two episodes over 20 days, and severe intermittent headaches for 2 weeks. There was no history of fever, and neurologic examination was normal. Routine blood investigations were normal. CSF analysis revealed increased proteins (73 mg%), CSF was negative for HIV antibodies, and CSF culture was sterile. Contrast-enhanced CT showed dilatation of both lateral ventricles and the third ventricle with subependymal transudation of CSF, and a subtle well-defined rounded lesion of CSF density with a punctate enhancing focus within the third ventricle. A provisional diagnosis of third ventricular neurocysticercosis was made and the patient was referred for an MRI. MRI revealed a cystic structure within the third ventricle, distending it. Furthermore, an eccentric mural nodule of intermediate signal intensity was identified. This nodule was thought to represent the scolex. A diagnosis of third ventricular cysticercosis causing obstructive hydrocephalus was made.",
+    "diagnostic_reasoning": {
+      "reasoning": "Seizures and headache with obstructive hydrocephalus; a third-ventricular cyst with eccentric mural nodule representing the scolex on MRI established neurocysticercosis.",
+      "direct_quote": "A diagnosis of third ventricular cysticercosis causing obstructive hydrocephalus was made"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 48,
+    "case_id": "PMC10805999_02",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "Neurocysticercosis",
+    "patients": [
+      {
+        "age": "43",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10805999_CCR3-12-e8454-g004_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10805999_CCR3-12-e8454-g002_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 43 year old man with no history of chronic illness was well until the day of presentation when he had an episode of seizure. While the patient was asleep, his relative noted stiffening of his body followed rapidly by rhythmic jerking of all his limbs which lasted about 45 s. He was unresponsive to calls during the episode. He had had two similar episodes of generalized seizures in the preceding 12 months. He was admitted at a clinic when he had the first seizure but was subsequently lost to follow-up. He was a regular pork eater and a previous pig farmer. He lived in a community with free-ranging pigs and limited access to toilet facilities. Contrast enhanced CT scan of the head showed rim-enhancing, cystic lesions with eccentric internal hyperdense foci in both frontal lobes. Also noted was a calcified cortical nodule in the left parietal region. A diagnosis of vesicular and calcified stages of parenchymal neurocysticercosis was made.",
+    "diagnostic_reasoning": {
+      "reasoning": "Seizure episodes in a pork-eating former pig farmer; rim-enhancing frontal cysts with eccentric hyperdense foci and a calcified nodule on CT established neurocysticercosis.",
+      "direct_quote": "A diagnosis of vesicular and calcified stages of parenchymal neurocysticercosis was made"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 49,
+    "case_id": "PMC10823322_01",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "Neurocysticercosis",
+    "patients": [
+      {
+        "age": "59",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10823322_omad145f4_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10823322_omad145f5_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC10823322_omad145f6_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "It is a case of a 59 years old, farmer admitted to our department for a first episode of generalized tonic-clonic in epileptic seizures less than 02 min. He had also a progressive walking difficulty evolving for more than 5 months, aggravated since 3 months. He walks with small steps, hesitating, as if he didn't know how to move forward by taking one step after the other. He had a sensation that his feet were stuck to the ground while walking. He needed to widen the distance between his feet to balance walk. Clinical examination showed walking apraxia, with an enlargement of the sustentation polygon and a magnetization when walking, even an impossibility to walk with an attitude of anteflexion as the walking went on. Imaging suggested massive neurocysticercosis lesions with intra parenchymatous vesicular cysts in supra and sub-tentorial and meningeal localization including racemose forms with communicating hydrocephalus. A round cystic hypodensity is also visible in the left temporal muscle, suggestive of muscle cysticercosis.",
+    "diagnostic_reasoning": {
+      "reasoning": "Progressive walking apraxia with small hesitant steps; imaging showing vesicular and racemose intracranial cysts with communicating hydrocephalus plus a temporal muscle cyst established neurocysticercosis.",
+      "direct_quote": "intra parenchymatous vesicular cysts in supra and sub-tentorial and meningeal localization"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 50,
+    "case_id": "PMC10267758_01",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "Neurocysticercosis",
+    "patients": [
+      {
+        "age": "42",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10267758_gr1_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10267758_gr2_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 42-year-old man presented to the emergency department after waking up with a severe generalized headache and profuse vomiting. He reported a 2-week history of progressive headaches and blurry vision, partially controlled with OTC analgesics. On neurologic examination, he had preserved motor, sensory, and autonomic functions with unremarkable neurologic reflexes throughout. However, his clinical manifestations were suggestive of increased intracranial pressure (ICP); therefore, it was prudent to proceed with head imaging before any laboratory investigations or further clinical examinations. A CT scan of the head demonstrated an expanded lateral ventricle on the right side without any significant mass effect, consistent with an isolated, right-sided non-communicating hydrocephalus. However, no identifiable cause was evident. Therefore, we scheduled the patient for urgent MR imaging, which revealed a well-delineated, thin-walled, non-enhancing cystic lesion with an eccentric mural nodule in the right-sided lateral ventricle, causing outflow obstruction through the ipsilateral interventricular foramen of Monro. Histopathological studies on the excised cysticercus demonstrated a nonviable, almost necrotic, vacuolated scolex with a still-viable cystic membrane.",
+    "diagnostic_reasoning": {
+      "reasoning": "Progressive headaches and blurry vision with expanded lateral ventricle on CT; histopathology showing a nonviable vacuolated scolex established neurocysticercosis.",
+      "direct_quote": "Histopathological studies on the excised cysticercus demonstrated a nonviable, almost necrotic, vacuolated scolex"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 51,
+    "case_id": "PMC10805999_01",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "Neurocysticercosis",
+    "patients": [
+      {
+        "age": "65",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10805999_CCR3-12-e8454-g005_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10805999_CCR3-12-e8454-g003_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 65 year old woman with no significant past medical history was brought to the emergency unit of a District Hospital in Ghana with an episode of seizure. Her daughters had noted repetitive nodding of the head and shaking movements of her left upper limb. This lasted about 1-2 min and it was the first time she had ever had a seizure. The episode was not preceded by an aura. There was a 2 month antecedent history of recurrent mild headache. Pigs roamed freely in her community. She was once into pig rearing and also used to be an avid pork eater. Contrast enhanced computed tomography (CT) scan of the brain revealed subcortical cystic lesions with eccentric internal hyperdense foci measuring 1.3 x 1.0 cm and 1.8 x 1.2 cm in the right and left frontal lobes respectively. She was diagnosed with vesicular stage of parenchymal neurocysticercosis.",
+    "diagnostic_reasoning": {
+      "reasoning": "Seizure in an avid pork eater from a pig-rearing community; CT subcortical frontal cysts with eccentric hyperdense foci established vesicular-stage neurocysticercosis.",
+      "direct_quote": "She was diagnosed with vesicular stage of parenchymal neurocysticercosis"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 52,
+    "case_id": "PMC13006511_01",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "Neurocysticercosis",
+    "patients": [
+      {
+        "age": "23",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC13006511_fpsyt-17-1771798-g001_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC13006511_fpsyt-17-1771798-g003_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "The patient is a 23-year-old Indian male who presented to the emergency department in the United Arab Emirates (UAE) on September 14, 2025, with two days of abnormal behavior, confusion, and agitation. The patient holds a bachelor's degree in business administration and had recently relocated from India to the UAE for administrative employment. Although his work was clerical in nature, he began residing in a labor camp about one month prior to admission, where poor living conditions led to significant sleep deprivation, averaging only two to three hours of sleep per night. Two days before admission, the patient's supervisor contacted a friend expressing concern about his sudden change in behavior. CT Brain showed a 3 mm cortical calcification with perilesional edema in the inferior posterior left frontal lobe. A follow-up MRI performed on September 20, 2025, showed a solitary ring-enhancing lesion with central calcification and mild perilesional edema in the left frontal region, with features suggestive of neurocysticercosis.",
+    "diagnostic_reasoning": {
+      "reasoning": "Acute confusion and agitation; CT cortical calcification and follow-up MRI solitary ring-enhancing frontal lesion with central calcification established neurocysticercosis.",
+      "direct_quote": "showed a solitary ring-enhancing lesion with central calcification and mild perilesional edema"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 53,
+    "case_id": "PMC11225520_02",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "Intraventricular neurocysticercosis",
+    "patients": [
+      {
+        "age": "54",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC11225520_SNI-15-193-g001_a_1_4.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC11225520_SNI-15-193-g001_b_2_4.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC11225520_SNI-15-193-g001_c_3_4.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC11225520_SNI-15-193-g001_d_4_4.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC11225520_SNI-15-193-g002_a_1_3.webp"
+      },
+      {
+        "image_id": "Figure 6",
+        "image_file": "PMC11225520_SNI-15-193-g002_b_2_3.webp"
+      },
+      {
+        "image_id": "Figure 7",
+        "image_file": "PMC11225520_SNI-15-193-g002_c_3_3.webp"
+      },
+      {
+        "image_id": "Figure 8",
+        "image_file": "PMC11225520_SNI-15-193-g003_a_1_5.webp"
+      },
+      {
+        "image_id": "Figure 9",
+        "image_file": "PMC11225520_SNI-15-193-g003_b_2_5.webp"
+      },
+      {
+        "image_id": "Figure 10",
+        "image_file": "PMC11225520_SNI-15-193-g003_c_3_5.webp"
+      },
+      {
+        "image_id": "Figure 11",
+        "image_file": "PMC11225520_SNI-15-193-g003_d_4_5.webp"
+      },
+      {
+        "image_id": "Figure 12",
+        "image_file": "PMC11225520_SNI-15-193-g003_e_5_5.webp"
+      }
+    ],
+    "case_presentation": "A 54-year-old male arrived at the emergency department with a sudden decrease in consciousness 12 hours before admission. He became drowsy and spoke incoherently, and the day before he had a high fever that subsided after paracetamol. He had chronic headaches for the past year, intensified over the past week, and consumed pork almost daily. He had a history of hydrocephalus treated in 2017 with a VP shunt at the right Kocher point. On examination, heart rate was about 124 beats per minute, temperature 38.5 C, Glasgow coma scale score 12, and a positive meningeal sign was noted. MRI revealed multiple thin-walled, cyst-like masses around the lateral ventricles obstructing the interventricular foramen, with ventricular dilation and periventricular edema suggestive of hydrocephalus. The masses were resected microsurgically. Histopathology showed that both specimens contained larvae and some mummified dead larvae, consistent with the hallmark features of neurocysticercosis. He was diagnosed with intraventricular neurocysticercosis and prescribed albendazole for 30 days.",
+    "diagnostic_reasoning": {
+      "reasoning": "Altered consciousness, meningeal sign and intraventricular cystic masses with hydrocephalus; histopathology showing larvae established intraventricular neurocysticercosis.",
+      "direct_quote": "both specimens contained larvae and some mummified dead larvae"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 54,
+    "case_id": "PMC5551286_01",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "Neurocysticercosis",
+    "patients": [
+      {
+        "age": "34",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC5551286_SNI-8-168-g001_a_1_4.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC5551286_SNI-8-168-g001_b_2_4.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC5551286_SNI-8-168-g001_c_3_4.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC5551286_SNI-8-168-g001_d_4_4.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC5551286_SNI-8-168-g002_a_1_4.webp"
+      },
+      {
+        "image_id": "Figure 6",
+        "image_file": "PMC5551286_SNI-8-168-g002_b_2_4.webp"
+      },
+      {
+        "image_id": "Figure 7",
+        "image_file": "PMC5551286_SNI-8-168-g002_c_3_4.webp"
+      },
+      {
+        "image_id": "Figure 8",
+        "image_file": "PMC5551286_SNI-8-168-g002_d_4_4.webp"
+      },
+      {
+        "image_id": "Figure 9",
+        "image_file": "PMC5551286_SNI-8-168-g003_a_1_4.webp"
+      },
+      {
+        "image_id": "Figure 10",
+        "image_file": "PMC5551286_SNI-8-168-g003_b_2_4.webp"
+      },
+      {
+        "image_id": "Figure 11",
+        "image_file": "PMC5551286_SNI-8-168-g003_c_3_4.webp"
+      },
+      {
+        "image_id": "Figure 12",
+        "image_file": "PMC5551286_SNI-8-168-g003_d_4_4.webp"
+      },
+      {
+        "image_id": "Figure 13",
+        "image_file": "PMC5551286_SNI-8-168-g004_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 14",
+        "image_file": "PMC5551286_SNI-8-168-g005_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 34-year-old right-handed Hispanic male presented initially to an another hospital after a new-onset generalized seizure while driving. He emigrated from Mexico 15 years prior to presentation and has not returned for 6 years. He traveled to many states around the US for work, including Texas, Louisiana, Virginia, Florida, and Nebraska, but has lived in Alabama for the last 11 years. On admission to an outside hospital, he underwent CT head and subsequent MRI brain, which revealed a multi-lobulated cystic lesion of the left fronto-temporal region. A lumbar puncture was performed with cerebral spinal fluid (CSF) labs, culture, cytology, and flow cytometry; all of which were unremarkable. He was evaluated by an outside neurologist and started on oral phenytoin for seizure control. He was subsequently discharged with follow-up at our facility for further management. Upon evaluation in clinic, he had no focal deficits on neurological examination. Imaging from the another hospital was reviewed. Serology for serum cysticercosis IgG antibodies was positive. Neuropathology was consistent with neurocysticercosis in racemose cyst formation.",
+    "diagnostic_reasoning": {
+      "reasoning": "Multilobulated cystic left fronto-temporal lesion on MRI; positive serum cysticercosis IgG and racemose cyst neuropathology established neurocysticercosis.",
+      "direct_quote": "Serology for serum cysticercosis IgG antibodies was positive"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 55,
+    "case_id": "PMC3271629_01",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "WEMINO syndrome",
+    "patients": [
+      {
+        "age": "35",
+        "gender": "male"
+      }
+    ],
+    "images": [],
+    "case_presentation": "A 35-year-old man presented with sudden onset of headache, nausea, and giddiness of two-day duration. He did not have any significant medical history. On examination, his vital signs were normal. Neurological examination revealed exotropia of his right eye with hypotropia of his left eye in primary gaze. His head position was tilted to left resulting in his left eye to be on a lower plane than the right. On attempted left gaze, there was loss of adduction in his right eye and mild dissociated nystagmus in his left eye. On attempted right gaze, his eye movements were normal. His pupils were equal in size and reacted normally to light. His convergence was impaired on the right. Optokinetic test revealed an adduction lag in his right eye. The above clinical features are characteristic of INO plus syndrome. MRI brain of the patient showed a typical well-defined cystic lesion with intracavitary scolex on the right side of mid pons. Thus, this patient has isolated WEMINO syndrome with contraversive OTR.",
+    "diagnostic_reasoning": {
+      "reasoning": "Sudden headache with right exotropia, adduction loss and left head tilt (INO plus syndrome); MRI mid-pons cyst with intracavitary scolex established WEMINO syndrome.",
+      "direct_quote": "MRI brain of the patient showed a typical well-defined cystic lesion with intracavitary scolex"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 56,
+    "case_id": "PMC10321581_01",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "Neurocysticercosis",
+    "patients": [
+      {
+        "age": "42",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10321581_TP-13-65-g001_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 42-year-old Indian male presented to the emergency services of our institute with an alleged history of a road traffic accident. On examination, the patient's Glasgow Coma scoring was E2V3M4. The patient was intubated. Noncontrast computed tomography revealed multiple well-defined cystic lesions in the cortical and juxtacortical regions. The optic nerve was free of any cysts. An ophthalmology consult was sought before starting anti-helminthic drugs. The anterior segment examination was unremarkable, and pupils were reacting normally to light. Fundoscopy showed clear media and discrete yellow-white placoid subretinal lesions nasal to the optic disc and in the macular area of 0.25 1 DD size in the right eye. Spectral-domain optical coherence tomography (SD-OCT) scan through the lesion showed a hyperreflective cystic lesion with backscattering. B-scan ultrasound showed an anechoic cystic lesion in the coats of the eye with a hyperechoic scolex. Contrast-enhanced magnetic resonance imaging (MRI) of the brain showed multiple ring lesions with enhancing protoscolex which was suggestive of neurocysticercosis (NCC).",
+    "diagnostic_reasoning": {
+      "reasoning": "Subretinal lesion with hyperechoic scolex on B-scan; multiple ring lesions with enhancing protoscolex on brain MRI established neurocysticercosis.",
+      "direct_quote": "Contrast-enhanced magnetic resonance imaging (MRI) of the brain showed multiple ring lesions with enhancing protoscolex"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 57,
+    "case_id": "PMC10071914_01",
+    "underlying_disease": "Scrub typhus",
+    "final_diagnosis": "Scrub typhus",
+    "patients": [
+      {
+        "age": "not stated",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10071914_JFMPC-12-165-g001_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10071914_JFMPC-12-165-g001_b_2_2.webp"
+      }
+    ],
+    "case_presentation": "A woman in her mid-twenties was admitted to our hospital with high-grade fever, headache, body aches, and generalized weakness for 10 days for which she had taken symptomatic treatment elsewhere. On the eighth day of fever, she developed breathlessness which rapidly progressed, and she was dyspneic even at rest. On examination, she was febrile, well oriented to time, person, and place, had a pulse rate of 124/min, blood pressure of 110/60 mm Hg, and respiratory rate of 32/min with accessory muscles of respiration working. She had mild pallor and two enlarged, discrete lymph nodes in the right inguinal region. She had an area of blackish ulcer (\"eschar\") on her right lower anterior abdominal wall as depicted in. Chest examination revealed crepitations bilaterally in the infrascapular area. In the meantime, her Weil-Felix agglutination test showed antibody titers of 1:640 to Proteus OX-K antigen. Finally, the confirmatory test for O. tsutsugamushi Immunoglobulin M (IgM) antibody was positive in 1:160 titers.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever with eschar and ARDS; positive Weil-Felix titer 1:640 and O. tsutsugamushi IgM at 1:160 established Scrub typhus.",
+      "direct_quote": "her Weil-Felix agglutination test showed antibody titers of 1:640 to Proteus OX-K antigen"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 58,
+    "case_id": "PMC11768316_01",
+    "underlying_disease": "Scrub typhus",
+    "final_diagnosis": "Scrub typhus",
+    "patients": [
+      {
+        "age": "74",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC11768316_pathogens-14-00064-g002_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC11768316_pathogens-14-00064-g002_b_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 74-year-old woman presented with the primary complaint of fever, sore throat, and cough. She had a history of chronic heart failure, hypertension, and dyslipidemia. In early November 2023 (day 0), she presented with a fever of 39 C, a sore throat, and dry cough. On day 2, she was diagnosed with influenza A by her local physician, based on a rapid influenza antigen test (Rapid Testa FLU & SARS-CoV-2, SEKISUI MEDICAL Co., Ltd., Tokyo, Japan) using a nasopharyngeal swab, and started on antipyretics and oseltamivir for 5 days. However, the fever persisted; she developed an erythematous rash distributed mainly on her trunk and developed shortness of breath on day 6. Duplex real-time polymerase chain reaction of an eschar sample tested positive for O. tsutsugamushi. Furthermore, paired serum samples collected on days 11 and 25 showed a significant increase in serum antibody titers against O. tsutsugamushi on immunofluorescence. Based on these findings, the patient was diagnosed with scrub typhus and influenza A co-infection.",
+    "diagnostic_reasoning": {
+      "reasoning": "Persistent fever with erythematous rash and eschar; positive eschar PCR and rising O. tsutsugamushi antibody titers established Scrub typhus.",
+      "direct_quote": "tested positive for O. tsutsugamushi"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 59,
+    "case_id": "PMC6613477_01",
+    "underlying_disease": "Scrub typhus",
+    "final_diagnosis": "Scrub typhus",
+    "patients": [
+      {
+        "age": "52",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC6613477_f1000research-8-21739-g0000_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC6613477_f1000research-8-21739-g0000_B_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 52-year-old grandmother of Indian origin, non-compliant to insulin for six months, presented to the Emergency Department of our hospital with fever and rigors, vomiting, headache, bilateral leg pain and myalgia, which had persisted for one week and urinary incontinence for the prior three days. She was unemployed, did not consume alcohol and had had no exposure to rodents or mite bites. Apart from over-the-counter antipyretics, she had neither consulted a health practitioner nor had she received antibiotics. On examination, she was conscious, oriented, toxic, febrile, drowsy, dehydrated with slurred speech, with body-mass index 20.2 kg/m 2, tachycardia, orthostatic hypotension, diminished hearing, with right renal angle fullness and tenderness. Arterial blood gas showed respiratory alkalosis with metabolic acidosis. The next day, Scrub Typhus Detect IgM (InBios International) done at a private laboratory returned positive with an OD of 1.732. Abdominal computed tomography on the 8th day showed bilateral bulky kidneys with mild perinephric fat stranding, thus confirming the provisional diagnosis.",
+    "diagnostic_reasoning": {
+      "reasoning": "Toxic, febrile, drowsy patient with metabolic acidosis; positive scrub typhus IgM (OD 1.732) and bulky kidneys on CT established Scrub typhus.",
+      "direct_quote": "Scrub Typhus Detect IgM (InBios International) done at a private laboratory returned positive"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 60,
+    "case_id": "PMC4374194_01",
+    "underlying_disease": "Scrub typhus",
+    "final_diagnosis": "Scrub typhus",
+    "patients": [
+      {
+        "age": "18",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC4374194_JCIS-5-11-g002_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "An 18-year-old female presented to the emergency department in an unconscious state. She had developed fever and rash 3 days earlier. On examination, the patient was unconscious, febrile, had maculopapular rash throughout her body, and an eschar was noted on the right side of the pubic region. Based on the clinical diagnosis of scrub typhus, MRI brain was done immediately. Scan revealed micro-hemorrhages in the body and splenium of corpus callosum, as well as in the sub-cortical white matter in bilateral centrum semiovale region. There was no mass effect or perilesional edema. These petechial hemorrhages were appreciated only in the susceptibility-weighted minimum intensity projection images. In post-contrast magnetization prepared rapid acquisition gradient recall echo (MP RAGE) sequence, there was enhancement of the pachymeninges along bilateral frontotemporoparietal lobes. Rest of the brain parenchyma was normal. On enzyme-linked immunosorbent assay (ELISA), antibody IgM was positive for scrub typhus showing an optical density (OD) of 2.546 which was much greater than the baseline OD of 0.4.",
+    "diagnostic_reasoning": {
+      "reasoning": "Unconscious febrile patient with maculopapular rash and corpus callosum micro-hemorrhages on MRI; positive scrub typhus IgM ELISA (OD 2.546) established Scrub typhus.",
+      "direct_quote": "antibody IgM was positive for scrub typhus showing an optical density (OD) of 2.546"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 61,
+    "case_id": "PMC10225563_01",
+    "underlying_disease": "Scrub typhus",
+    "final_diagnosis": "Scrub typhus",
+    "patients": [
+      {
+        "age": "56",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10225563_fimmu-14-1129246-g001_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10225563_fimmu-14-1129246-g001_B_2_2.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC10225563_fimmu-14-1129246-g002_A_1_4.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC10225563_fimmu-14-1129246-g002_B_2_4.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC10225563_fimmu-14-1129246-g003_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 6",
+        "image_file": "PMC10225563_fimmu-14-1129246-g004_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 7",
+        "image_file": "PMC10225563_fimmu-14-1129246-g004_B_2_2.webp"
+      },
+      {
+        "image_id": "Figure 8",
+        "image_file": "PMC10225563_fimmu-14-1129246-g002_D_4_4.webp"
+      }
+    ],
+    "case_presentation": "A 56-year-old man going wild fishing nearly every day complained of a blurred vision and an inferior visual field defect in the right eye for one day. At presentation, he denied any systemic symptoms, but mentioned an insect-bite-like skin induration in his left leg two or three days prior to his visual symptom onset. His past medical history was remarkable. He was diagnosed as ON in the right eye, immediately admitted to the local hospital, and treated with intravenous injection of dexamethasone 10 mg once per day for seven days. However, his right eye vision progressively deteriorated to 20/50 during steroid therapy. Hence, the patient refused further steroid therapy. Physical examination revealed an eschar on the lateral skin of his left leg and enlarged lymph nodes in the left groin. Serum test for Orientia tsutsugamushi by mNGS was positive.",
+    "diagnostic_reasoning": {
+      "reasoning": "Right optic neuritis in a man fishing daily, with leg eschar; positive serum Orientia tsutsugamushi metagenomic sequencing established Scrub typhus.",
+      "direct_quote": "Serum test for Orientia tsutsugamushi by mNGS was positive"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 62,
+    "case_id": "PMC3401656_01",
+    "underlying_disease": "Typhoid",
+    "final_diagnosis": "Hemicerebellitis",
+    "patients": [
+      {
+        "age": "12",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC3401656_JPN-7-49-g001_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC3401656_JPN-7-49-g002_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC3401656_JPN-7-49-g003_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC3401656_JPN-7-49-g004_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC3401656_JPN-7-49-g004_b_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 12-year-old male child was admitted to our hospital with complaints of severe headache, vertigo, rash, cough, and recurrent episodes of vomiting. Two weeks before he had fever and was hospitalized in another center with an initial diagnosis of Typhoid fever (Widal positive) and was treated with antibiotics. At admission, patient was febrile, oriented, and conscious. Neurological examination and fundus showed normal results. No signs of meningeal irritation were found. Hematological examination revealed Total Leukocyte Count (TLC) of 5,200/mul with thrombocytopenia (1.1 lakh/mm3). Liver function tests and coagulation profile were deranged. Subsequently, the patient's neurological status deteriorated, and he suffered a single episode of seizure and developed nystagmus. There was a significant mass effect over the fourth ventricle and the brainstem with ascending transtentorial herniation and hydrocephalous. Magnetic Resonance Imaging (MRI) was done, and it revealed a diffusely swollen left cerebellar hemisphere without a well-defined mass, appearing hypointense on T1-weighted images, hyperintense on T2-weighted images. Possibility of hemicerebellitis was considered.",
+    "diagnostic_reasoning": {
+      "reasoning": "Cerebellar signs two weeks after Widal-positive typhoid fever; MRI diffusely swollen left cerebellar hemisphere established hemicerebellitis.",
+      "direct_quote": "revealed a diffusely swollen left cerebellar hemisphere"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 63,
+    "case_id": "PMC5385597_01",
+    "underlying_disease": "Typhoid",
+    "final_diagnosis": "Typhoid",
+    "patients": [
+      {
+        "age": "59",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC5385597_40942_2017_65_Fig1_HTML_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC5385597_40942_2017_65_Fig1_HTML_b_2_2.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC5385597_40942_2017_65_Fig2_HTML_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC5385597_40942_2017_65_Fig3_HTML_a_1_2.webp"
+      }
+    ],
+    "case_presentation": "A 59 year old male presented to our hospital 1 week after experiencing diminution of vision in the right eye. He gave a history of typhoid fever 4 weeks prior to presentation for which Widal test was performed to confirm diagnosis. The test results showed significant titres for 'O' antigen (>1:80) and 'H' antigen (>1:160) and negative for 'AH' and 'BH' antigens. He was subsequently started on oral Ofloxacin 400 mg twice daily for 2 weeks following which fever subsided. There was no known history of diabetes mellitus or hypertension. On ocular examination his best corrected visual acuity was 2/60 in the right eye and 6/6 in left eye. Anterior segment findings were unremarkable with IOP being within normal range for both eyes. Fundus examination of right eye showed white fluffy lesions along the superior and inferior arcades with superficial haemorrhages in around the macula with a macular star suggestive of retinitis. After analysis of the reports diagnosis of post typhoid retinitis in both eyes was made.",
+    "diagnostic_reasoning": {
+      "reasoning": "Bilateral white retinal lesions with hemorrhages and macular star four weeks after typhoid fever; significant Widal O and H titres supported Typhoid.",
+      "direct_quote": "After analysis of the reports diagnosis of post typhoid retinitis in both eyes was made"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 64,
+    "case_id": "PMC8076683_01",
+    "underlying_disease": "Zika",
+    "final_diagnosis": "Zika",
+    "patients": [
+      {
+        "age": "27",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC8076683_fmed-08-499016-g0001_A_1_3.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC8076683_fmed-08-499016-g0001_B_2_3.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC8076683_fmed-08-499016-g0001_C_3_3.webp"
+      }
+    ],
+    "case_presentation": "During the 2016 ZIKV outbreak in Merida, Mexico, a 27-year-old woman in the third trimester of pregnancy was referred to medical geneticist because multiple malformations detected in the fetus. Informed consent was obtained for sampling, clinical evaluations, and for the publication report. Exploring the medical records, she reported unquantified fever, preauricular nodes, pruritus and rash in the shoulder girdle and thorax in the first trimester when the pregnancy was unnoticed. No serological tests were performed for ZIKV at that time. At 27.4 weeks of gestation, fetus was reported with microcephaly (DBP 58 mm); nuchal thickening, ventriculomegaly, hemisphere hypoplasia and cerebellar vermis were detected in the brain, and micrognathia, right radial aplasia, and arthrogryposis were also reported at that time. A stillbirth with generalized subcutaneous edema was obtained via cesarean section at 35 weeks of gestation. The RT-PCR for ZIKV/Dengue/Chikungunya in the patient's cerebrospinal fluid detected the presence of Zika viral RNA. Computational axial tomography reported subcortical calcifications, lissencephaly, ventriculomegaly, and generalized cortical degeneration.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fetal microcephaly with ventriculomegaly and arthrogryposis during the 2016 Zika outbreak; RT-PCR detecting Zika viral RNA in cerebrospinal fluid established Zika.",
+      "direct_quote": "RT-PCR for ZIKV/Dengue/Chikungunya in the patient's cerebrospinal fluid detected the presence of Zika viral RNA"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 65,
+    "case_id": "PMC5885377_01",
+    "underlying_disease": "Zika",
+    "final_diagnosis": "Zika",
+    "patients": [
+      {
+        "age": "29",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC5885377_40794_2018_62_Fig1_HTML_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 29-year-old pregnant woman from Canada, gravida 4 para 3, developed a low-grade fever and a generalized rash at 9-weeks gestation while visiting friends and relatives in Trinidad. Symptom onset occurred 6-weeks after arriving in Trinidad and all symptoms lasted for 4 days, followed by approximately one month of fever, myalgia, and retro-orbital headaches. Seven days after symptom onset she sought medical care in Trinidad with her 4-year-old child who was experiencing similar symptoms. One month after symptom onset she returned to Canada for further evaluation. The patient was evaluated in our centre at 13 weeks 6 days gestation, which corresponded to one month post-symptom onset. Past medical history was significant for mild cerebral palsy and scoliosis. At 30 days post-symptom onset, ZIKV PCR, performed by Public Health Ontario Laboratory (PHOL), was positive at a cycle threshold (CT) of 31.85. The ZIKV IgM ELISA was positive, however, the PRNT was inconclusive. ZIKV RNA was detected in the umbilical cord, placenta, liver, and fetal neural tissue.",
+    "diagnostic_reasoning": {
+      "reasoning": "Pregnant traveler with fever after arriving in Trinidad; positive maternal ZIKV PCR and IgM plus ZIKV RNA in fetal tissue established Zika.",
+      "direct_quote": "ZIKV PCR, performed by Public Health Ontario Laboratory (PHOL), was positive at a cycle threshold"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 66,
+    "case_id": "PMC4750307_04",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "45",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC4750307_JNRP-7-114-g008_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 45-year-old male patient, presented with high-grade continuous fever for 5 days without chills and rigor, persistent headache for 5 days, recurrent episodes of vomiting, and GTCS followed by drowsiness for last 3 days. He was semiconscious (GCS E3M4V2) on first examination, and neurological examination showed he had only neck rigidity with positive Kernig sign. Deep tendon reflexes are all absent and planter was bilaterally extensor. Rest of the CNS examination could not be done. Other systems were also within normal limit. So, the diagnosis of dengue meningoencephalitis was done. This patient also was treated only with IV fluid, paracetamol as antipyretic and anticonvulsant. On 2nd day onward he had no event focal or generalized convulsion. Patient improved gradually, and neck rigidity was absent on the 11th day of hospital stay. Patient had uneventful hospital stay in the rest of the days and was discharged on the 14th day. MRI brain (plain and contrast), done on the 6th day of fever, showed bilateral symmetrical T2 hyperintensities in both thalamic regions.",
+    "diagnostic_reasoning": {
+      "reasoning": "Semiconscious with neck rigidity and positive Kernig sign; MRI bilateral symmetrical thalamic T2 hyperintensities established Dengue.",
+      "direct_quote": "showed bilateral symmetrical T2 hyperintensities in both thalamic regions"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 67,
+    "case_id": "PMC10995331_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Acute macular neuroretinopathy",
+    "patients": [
+      {
+        "age": "41",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10995331_fmed-11-1379429-g0002_C_3_4.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10995331_fmed-11-1379429-g0002_D_4_4.webp"
+      }
+    ],
+    "case_presentation": "A 41-year-old Taiwanese female contracted DENV-1 infection during the 2023 endemic in Taiwan and was confirmed by positive results of dengue non-structural protein 1 (NS1) antigen assay and polymerase chain reaction (PCR) examination. The platelet count reached the nadir at 102,000 cells/L on day 7 after the onset of DF (Post Symptom Onset Day 7, PSO 7). She had a history of optic neuritis (ON) in the left eye (oculus sinister, OS) more than 10 years ago. The ophthalmic examination on PSO 11 revealed her best corrected visual acuity (BCVA) being 1.0 per glass (PG) right eye (oculus dexter, OD) and 0.05 PG OS. There was minimal relative afferent pupillary defect OS. The color plate test was 11/15 OD and 5/15 OS. Fundus examination and optical coherence tomography showed macular edema, disc hyperemia on both eyes with ellipsoid zone infiltration. All evidence, including vitritis, small vessel vasculitis-related maculopathy, and optic disc inflammation, are consistent with the diagnosis of AMN.",
+    "diagnostic_reasoning": {
+      "reasoning": "Visual loss with vitritis, small vessel vasculitis-related maculopathy and optic disc inflammation after PCR- and NS1-confirmed DENV-1 infection; imaging findings established acute macular neuroretinopathy.",
+      "direct_quote": "small vessel vasculitis-related maculopathy, and optic disc inflammation, are consistent with the diagnosis of AMN"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 68,
+    "case_id": "PMC4046007_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue myocarditis",
+    "patients": [
+      {
+        "age": "55",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC4046007_1755-7682-7-28-1_A_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC4046007_1755-7682-7-28-1_B_2_2.webp"
+      }
+    ],
+    "case_presentation": "A previously healthy 55-year-old man with no prior known cardiovascular disease was admitted with fever and arthralgia of five days. The patient had a temperature of 39 C and had an irregular pulse with a heart rate of 78 beats per minute. His blood pressure was 130/80. He had no other significant findings on examination. The laboratory findings were: haemoglobin of 16.5 g/dL, a hematocrit of 48.1% and a white blood cell count of 3,100/mm3. The platelet count was 95,000/mm3, reduced to 70,000/mm3 on the following day and 55,000/mm on the 5th day. A 12-lead electrocardiogram showed ventricular trigeminy. The transthoracic echo revealed a hypokinetic apex with an ejection fraction of 50% and evidence of dengue myocarditis. The serum IgM was positive for dengue.",
+    "diagnostic_reasoning": {
+      "reasoning": "Ventricular trigeminy with hypokinetic apex and ejection fraction 50% in dengue; positive dengue serum IgM with echocardiographic evidence established dengue myocarditis.",
+      "direct_quote": "revealed a hypokinetic apex with an ejection fraction of 50% and evidence of dengue myocarditis"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 69,
+    "case_id": "PMC10402786_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "43",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC10402786_gh-18-1-1254-g1_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC10402786_gh-18-1-1254-g2_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC10402786_gh-18-1-1254-g5_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 43-year-old man was admitted to the Clinica de las Americas (CDLA) in Santa Cruz de la Sierra, Bolivia, presenting with moderate-intensity, continuous crushing chest pain radiating to the lower jaw and the left shoulder. The pain had started two days prior and had progressively increased in intensity. Five days prior to his hospitalization, the patient had presented to the emergency department for fever, headache, retro-orbital pain, general body aches, and joint pain. Due to the high degree of suspicion and multiple cases of dengue in the community, a dengue test (ELISA IgM) was performed, yielding a positive result, which was subsequently confirmed through reverse transcriptase polymerase chain reaction (RT-PCR). The patient was hemodynamically stable with no signs of heart failure, exhibiting no murmurs or rubs on auscultation, and a chest-radiography performed at that time showed normal results. The patient's electrocardiogram (EKG) revealed sinus rhythm with a heart rate of 95 beats per minute.",
+    "diagnostic_reasoning": {
+      "reasoning": "Chest pain during a dengue outbreak with sinus rhythm on EKG; positive dengue IgM ELISA confirmed by RT-PCR established Dengue.",
+      "direct_quote": "a dengue test (ELISA IgM) was performed, yielding a positive result"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 70,
+    "case_id": "PMC5288990_01",
+    "underlying_disease": "Dengue",
+    "final_diagnosis": "Dengue",
+    "patients": [
+      {
+        "age": "45",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC5288990_SNI-8-4-g001_a_1_6.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC5288990_SNI-8-4-g001_b_2_6.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC5288990_SNI-8-4-g001_c_3_6.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC5288990_SNI-8-4-g001_d_4_6.webp"
+      },
+      {
+        "image_id": "Figure 5",
+        "image_file": "PMC5288990_SNI-8-4-g001_e_5_6.webp"
+      },
+      {
+        "image_id": "Figure 6",
+        "image_file": "PMC5288990_SNI-8-4-g001_f_6_6.webp"
+      },
+      {
+        "image_id": "Figure 7",
+        "image_file": "PMC5288990_SNI-8-4-g003_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 8",
+        "image_file": "PMC5288990_SNI-8-4-g003_b_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 45-year-old man presented with a history of high-grade fever of 7-day duration. He was evaluated at a general hospital, and was noted to have NS1 IgM positive serology for Dengue infection and low platelet counts. Patient was diagnosed as DHF in view of severe thrombocytopenia and was managed accordingly with resuscitative measures. On the 7th day of the fever, the patient developed severe headache, multiple episodes of vomiting, and altered sensorium. Electrocardiograph (ECG) showed sinus bradycardia and computed tomography (CT) scan of the brain showed sellar and suprasellar hemorrhagic lesion with obstruction of the foramen of Monro, leading to hydrocephalus. The patient was referred to our tertiary neurosurgical center for further management. At presentation, he was drowsy, disoriented, but obeying to commands. The pupils were equal in size and reacting to light. CT scan of the brain showed sellar and suprasellar hemorrhagic lesion with obstruction of the foramen of Monro, leading to hydrocephalus. He underwent endoscopic endonasal transsphenoidal decompression of the pituitary adenoma. Intratumoral hemorrhage was evident.",
+    "diagnostic_reasoning": {
+      "reasoning": "Altered sensorium, severe thrombocytopenia and sellar hemorrhage with hydrocephalus; positive dengue NS1/IgM serology established Dengue.",
+      "direct_quote": "NS1 IgM positive serology for Dengue infection"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 71,
+    "case_id": "PMC11722198_01",
+    "underlying_disease": "Malaria",
+    "final_diagnosis": "Malaria",
+    "patients": [
+      {
+        "age": "40",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC11722198_gr1_A_1_3.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC11722198_gr1_B_2_3.webp"
+      },
+      {
+        "image_id": "Figure 3",
+        "image_file": "PMC11722198_gr1_C_3_3.webp"
+      },
+      {
+        "image_id": "Figure 4",
+        "image_file": "PMC11722198_gr2_A_1_3.webp"
+      }
+    ],
+    "case_presentation": "We present a case of a 40-year-old male who was admitted to our facility with a 2-day history of altered mental status and loss of consciousness on the day of admission. There was no trauma or seizures reported. Four days before his admission, the patient was diagnosed with severe malaria and was undergoing treatment for it. He had experienced two previous episodes of malaria in the past two months, making this his third episode. During these malaria episodes, his main symptoms were headaches and generalized body malaise. This was the patient's first admission. There is no history of chronic illnesses, and there is no personal or family history of coagulopathies. The patient has no history of smoking or alcohol consumption. The neurological examination revealed that the patient had a Glasgow Coma Scale score of 12 (Eye - 3, Motor - 6, Verbal - 3). A CT scan of the head revealed an acute left subdural hematoma with mass effect and a 13 mm midline shift.",
+    "diagnostic_reasoning": {
+      "reasoning": "Third severe malaria episode with Glasgow Coma Scale 12; prior malaria diagnosis and CT-proven acute left subdural hematoma established Malaria.",
+      "direct_quote": "the patient was diagnosed with severe malaria and was undergoing treatment for it"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 72,
+    "case_id": "PMC11806386_01",
+    "underlying_disease": "Melioidosis",
+    "final_diagnosis": "Melioidosis-related mycotic aneurysm",
+    "patients": [
+      {
+        "age": "51",
+        "gender": "male"
+      }
+    ],
+    "images": [],
+    "case_presentation": "A 51-year-old man with newly diagnosed type 2 diabetes mellitus presented with a four-week history of fever, lower back pain, and reduced appetite. He works as a technician at a ship repair dock. Initially, he sought care at a district hospital, where he was treated symptomatically and discharged with oral analgesics (NSAIDs) for lower back pain. As his symptoms worsened, he visited a private hospital two weeks later. He was subsequently referred to our center for further management. On admission, the patient was hemodynamically stable and afebrile, with an oxygen saturation of 98% while breathing ambient air. The cardiac examination revealed no heart murmurs, and the abdomen was soft with tenderness detected at the lower abdomen. The remainder of the physical examination was unremarkable. A contrast-enhanced computed tomography (CT) scan of the thorax, abdomen, and pelvis revealed a saccular aneurysm at the distal aorta. The blood culture was negative, but intraoperative tissue and pus cultures grew B. pseudomallei, which was sensitive to trimethoprim-sulfamethoxazole, ceftazidime, doxycycline, and meropenem.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever and back pain with saccular distal aortic aneurysm on CT; intraoperative cultures growing B. pseudomallei established melioidosis-related mycotic aneurysm.",
+      "direct_quote": "intraoperative tissue and pus cultures grew B. pseudomallei"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 73,
+    "case_id": "PMC3985368_01",
+    "underlying_disease": "Neurocysticercosis",
+    "final_diagnosis": "Neurocysticercosis",
+    "patients": [
+      {
+        "age": "38",
+        "gender": "female"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC3985368_JNRP-5-76-g001_a_1_2.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC3985368_JNRP-5-76-g001_b_2_2.webp"
+      }
+    ],
+    "case_presentation": "A 38-year-old female patient presented with progressive dysarthria, dysphagia, nasal regurgitation and hyper nasal speech for 5 months duration. She had 4 episodes of partial seizures involving the right upper and the lower limb for the past 5 months and was not on any medications. There was weakness of the left upper limb for the past 15 days duration but there was no headache, vomiting or blurring of vision. She had emotional instability in the form of inappropriate crying. Neurological examination showed exaggerated jaw jerks and gag reflex with spastic dysarthria. She had both proximal and distal weakness in the left upper limb with power of 3/5. All the deep tendon reflexes were brisk with plantar response mute bilaterally and cortical sensory loss in the left upper limb. There was no atrophy or fasciculation of the affected muscles. The fundus and other system examination were normal. Laboratory examination revealed positive neurocysticercosis serology. Her NCC serology was positive and diagnosis confirmed by MRI, which showed multiple cysts with scolex.",
+    "diagnostic_reasoning": {
+      "reasoning": "Progressive dysarthria, partial seizures and left upper limb weakness; positive NCC serology and MRI showing multiple cysts with scolex established neurocysticercosis.",
+      "direct_quote": "NCC serology was positive and diagnosis confirmed by MRI, which showed multiple cysts with scolex"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 74,
+    "case_id": "PMC4005210_01",
+    "underlying_disease": "Scrub typhus",
+    "final_diagnosis": "Scrub typhus",
+    "patients": [
+      {
+        "age": "57",
+        "gender": "male"
+      }
+    ],
+    "images": [
+      {
+        "image_id": "Figure 1",
+        "image_file": "PMC4005210_JFMPC-3-80-g001_undivided_1_1.webp"
+      },
+      {
+        "image_id": "Figure 2",
+        "image_file": "PMC4005210_JFMPC-3-80-g002_undivided_1_1.webp"
+      }
+    ],
+    "case_presentation": "A 57-year-old man, resident of Burgaon village, Wardha district, farm laborer by occupation was admitted in unconscious state with cough and progressive breathlessness, which developed 3 days prior to admission. He had history of fever and body ache for last 8 days. He had four episodes of generalized tonic clonic seizures within 2 days prior to admission. On general physical examination, he was febrile (39.6 C), anicteric, and drowsy. He had pulse of 108 beats per min, blood pressure of 120/80 mmHg, and respiratory rate of 18 breaths per min. A 1 cm sized black crusted ulcer (eschar) was found on the left groin. His Weil-Felix test was positive for the OX-K antigen in titers of 1:160. Rapid detection kit for scrub typhus, a solid phase immunochromatographic assay, was positive for antibodies to O. tsutsugamushi. A final diagnosis of scrub typhus with ARDS, ARF, encephalitis, and septic shock was made.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever and generalized seizures with groin eschar; positive Weil-Felix OX-K titer 1:160 and rapid antibody assay established Scrub typhus.",
+      "direct_quote": "His Weil-Felix test was positive for the OX-K antigen in titers of 1:160"
+    },
+    "old_diagnosis": true
+  },
+  {
+    "case_index": 75,
+    "case_id": "PMC6689839_01",
+    "underlying_disease": "Typhoid",
+    "final_diagnosis": "Typhoid",
+    "patients": [
+      {
+        "age": "4",
+        "gender": "female"
+      }
+    ],
+    "images": [],
+    "case_presentation": "A 4 years old girl, was brought by the parents to the emergency unit of the \"Hopital Saint Jean de Dieu\" in Tanguieta, north of Benin at lunchtime. The parents referred abdominal pain and tenderness, fever, vomiting and anorexia since 48 hours, treated with local herbs infuse. The patient was agitated but confused, Glasgow Coma Scale 12 (E3, V4, M5), arterial blood pressure 75/50 mm Hg, heart rate of 135 beats/min, body temperature 38.9 C and respiratory rate of 22 cycles/min. Abdominal test revealed a remarkable symmetrical distention, with bulging flanks, positive fluid thrill. Crying on every attempt of abdominal palpation, which revealed tenderness and pain on all the abdomen. On the middle jejunum 3 major perforations on the antimesenteric side of the bowel were identified, surrounded by hyperemic and inflamed tissue with the typical aspect of typhoid bowel perforation. The samples sent for laboratory analysis showed a high load of acid fast bacilli on Ziehl-Neelsen staining and positive serology for Salmonella tiphy bacillus.",
+    "diagnostic_reasoning": {
+      "reasoning": "Fever, abdominal distension and tenderness with three jejunal perforations of typhoid aspect; positive Salmonella typhi serology established Typhoid.",
+      "direct_quote": "positive serology for Salmonella tiphy bacillus"
+    },
+    "old_diagnosis": true
+  }
+]

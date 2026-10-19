@@ -1,0 +1,720 @@
+case_id,fail_reason
+PMC9282816_01,passed
+PMC5648305_01,passed
+PMC8605226_01,passed
+PMC8605226_02,passed
+PMC6796728_01,passed
+PMC8046462_01,TB ruled out
+PMC5771871_01,passed
+PMC6679641_01,passed
+PMC8574110_01,passed
+PMC9139337_01,passed
+PMC9139337_02,multiple patients
+PMC8285566_01,TB mentioned in passing
+PMC8285566_02,TB mentioned in passing
+PMC8285566_03,TB mentioned in passing
+PMC8285566_04,TB mentioned in passing
+PMC8285566_05,multiple patients
+PMC3952285_01,passed
+PMC9368318_01,first sentence lacks single patient age+gender
+PMC9712176_01,passed
+PMC4901839_01,passed
+PMC6754851_01,multiple patients
+PMC6754851_02,multiple patients
+PMC6754851_03,TB mentioned in passing
+PMC8200608_01,passed
+PMC4290071_01,TB mentioned in passing
+PMC4719501_01,passed
+PMC8421570_01,first sentence lacks single patient age+gender
+PMC5458707_01,TB mentioned in passing
+PMC4491481_01,passed
+PMC6689839_01,TB mentioned in passing
+PMC3994693_01,passed
+PMC9215351_01,passed
+PMC9459224_01,passed
+PMC8600159_01,passed
+PMC7718636_01,passed
+PMC2878410_01,first sentence lacks single patient age+gender
+PMC4317210_01,TB mentioned in passing
+PMC4922280_01,passed
+PMC8164866_01,passed
+PMC9556964_01,passed
+PMC3068586_01,TB mentioned in passing
+PMC10331026_01,no evidence TB is diagnosis
+PMC9356588_01,passed
+PMC9356588_02,multiple patients
+PMC7235927_01,passed
+PMC5337757_01,passed
+PMC9577071_01,passed
+PMC10460097_01,passed
+PMC8864130_01,passed
+PMC10219828_01,passed
+PMC3634206_01,passed
+PMC4085913_01,TB mentioned in passing
+PMC4555907_01,TB mentioned in passing
+PMC4237689_01,passed
+PMC8650847_01,passed
+PMC4677577_01,passed
+PMC7524186_01,passed
+PMC6912930_01,passed
+PMC6912930_02,TB history/contact only
+PMC6912930_03,TB mentioned in passing
+PMC8097037_01,multiple patients
+PMC5483369_01,passed
+PMC7083182_01,passed
+PMC6396576_01,passed
+PMC6396575_01,passed
+PMC6396575_02,passed
+PMC6396575_03,passed
+PMC6396575_04,passed
+PMC6670196_01,first sentence lacks single patient age+gender
+PMC7521098_01,passed
+PMC6324106_01,multiple patients
+PMC5370330_01,no evidence TB is diagnosis
+PMC6694717_01,TB mentioned in passing
+PMC6694717_02,passed
+PMC9932527_01,passed
+PMC8114242_01,TB mentioned in passing
+PMC5836235_01,TB mentioned in passing
+PMC9673929_01,passed
+PMC10267541_01,TB mentioned in passing
+PMC10267541_02,first sentence lacks single patient age+gender
+PMC7113617_01,TB mentioned in passing
+PMC4354055_01,passed
+PMC6330799_01,TB mentioned in passing
+PMC8054818_01,no evidence TB is diagnosis
+PMC9533801_01,passed
+PMC5113911_01,passed
+PMC9487995_01,first sentence lacks single patient age+gender
+PMC5336629_01,TB mentioned in passing
+PMC6826313_01,passed
+PMC7569537_01,passed
+PMC7569537_02,TB mentioned in passing
+PMC7569537_03,passed
+PMC7569537_04,TB history/contact only
+PMC4513297_01,passed
+PMC9850118_01,TB mentioned in passing
+PMC8472319_01,passed
+PMC7417062_01,TB mentioned in passing
+PMC4715887_01,TB mentioned in passing
+PMC6884965_01,passed
+PMC6884965_02,passed
+PMC6884965_03,passed
+PMC6884965_04,passed
+PMC6884965_05,multiple patients
+PMC7757277_01,first sentence lacks single patient age+gender
+PMC8278846_01,passed
+PMC7184841_01,TB mentioned in passing
+PMC7406069_01,passed
+PMC7406069_02,multiple patients
+PMC6744749_01,passed
+PMC6066802_01,TB mentioned in passing
+PMC6066802_02,passed
+PMC6066802_03,passed
+PMC6066802_04,TB mentioned in passing
+PMC7666697_01,passed
+PMC5458696_01,passed
+PMC6676783_01,passed
+PMC8046478_01,TB mentioned in passing
+PMC9897006_01,TB history/contact only
+PMC3083530_01,TB mentioned in passing
+PMC3343675_01,passed
+PMC7548324_01,first sentence lacks single patient age+gender
+PMC7548324_02,first sentence lacks single patient age+gender
+PMC3215560_01,first sentence lacks single patient age+gender
+PMC3215560_02,TB mentioned in passing
+PMC3215560_03,passed
+PMC6488773_01,first sentence lacks single patient age+gender
+PMC7687509_01,first sentence lacks single patient age+gender
+PMC6380144_01,passed
+PMC6355664_01,TB ruled out
+PMC9937678_01,passed
+PMC3253394_01,TB mentioned in passing
+PMC3253394_02,passed
+PMC3253394_03,TB mentioned in passing
+PMC9894277_01,passed
+PMC9894277_02,passed
+PMC8725022_01,multiple patients
+PMC9282791_01,TB history/contact only
+PMC3961926_01,passed
+PMC5784364_01,passed
+PMC3622373_01,passed
+PMC4081147_01,passed
+PMC6180361_01,passed
+PMC9402927_01,multiple patients
+PMC4404509_01,TB mentioned in passing
+PMC3992755_01,passed
+PMC3992755_02,first sentence lacks single patient age+gender
+PMC8464323_01,passed
+PMC3326964_01,passed
+PMC4841938_01,passed
+PMC4154285_01,first sentence lacks single patient age+gender
+PMC6394184_01,passed
+PMC6394184_02,TB mentioned in passing
+PMC9424730_01,first sentence lacks single patient age+gender
+PMC6167885_01,first sentence lacks single patient age+gender
+PMC9758706_01,passed
+PMC9558873_01,passed
+PMC7661936_01,TB history/contact only
+PMC8378191_01,passed
+PMC9894099_01,TB history/contact only
+PMC6668214_01,no evidence TB is diagnosis
+PMC8492417_01,passed
+PMC10294669_01,passed
+PMC4303756_01,passed
+PMC4845421_01,passed
+PMC8273899_01,passed
+PMC9548620_01,multiple patients
+PMC3543948_01,passed
+PMC7712452_01,passed
+PMC6343228_01,passed
+PMC4411815_01,passed
+PMC6204878_01,passed
+PMC4499233_01,first sentence lacks single patient age+gender
+PMC4119435_01,passed
+PMC6779781_01,passed
+PMC3634208_01,passed
+PMC4153214_01,past TB only; sputum negative
+PMC9168402_01,first sentence lacks single patient age+gender
+PMC3263066_01,passed
+PMC9617497_01,TB mentioned in passing
+PMC8053494_01,passed
+PMC8551521_01,passed
+PMC9513355_01,passed
+PMC9513355_02,TB history/contact only
+PMC4748668_01,passed
+PMC4735024_01,first sentence lacks single patient age+gender
+PMC4735024_02,first sentence lacks single patient age+gender
+PMC4735024_03,first sentence lacks single patient age+gender
+PMC4735024_04,first sentence lacks single patient age+gender
+PMC4735024_05,multiple patients
+PMC7569747_01,first sentence lacks single patient age+gender
+PMC5027129_01,passed
+PMC4338053_01,passed
+PMC7580750_01,multiple patients
+PMC5081375_01,TB mentioned in passing
+PMC8517634_01,passed
+PMC7398877_01,passed
+PMC8022158_01,passed
+PMC9653542_02,first sentence lacks single patient age+gender
+PMC4062235_01,TB mentioned in passing
+PMC9705775_01,passed
+PMC8604635_01,passed
+PMC8418180_01,first sentence lacks single patient age+gender
+PMC8418180_02,passed
+PMC8281055_01,passed
+PMC3122994_01,first sentence lacks single patient age+gender
+PMC9159155_01,TB ruled out
+PMC9703518_01,TB mentioned in passing
+PMC4832895_01,passed
+PMC6296679_01,TB history/contact only
+PMC6598396_01,passed
+PMC6598396_02,first sentence lacks single patient age+gender
+PMC7553599_01,passed
+PMC10184060_01,passed
+PMC7388635_01,passed
+PMC7501750_01,first sentence lacks single patient age+gender
+PMC6024047_01,passed
+PMC4225156_01,passed
+PMC9928219_01,passed
+PMC5325492_01,first sentence lacks single patient age+gender
+PMC5325492_02,passed
+PMC7251268_01,passed
+PMC9309810_01,passed
+PMC3474948_01,passed
+PMC4600139_01,passed
+PMC9843065_01,passed
+PMC9493459_01,passed
+PMC10194659_01,passed
+PMC3643326_01,first sentence lacks single patient age+gender
+PMC3643326_02,multiple patients
+PMC9263968_01,passed
+PMC7717481_01,non-human
+PMC3621242_01,passed
+PMC3748632_01,passed
+PMC7532822_01,TB mentioned in passing
+PMC2809462_01,TB mentioned in passing
+PMC2809462_02,TB mentioned in passing
+PMC2809462_03,TB mentioned in passing
+PMC3937496_01,TB mentioned in passing
+PMC10362915_01,passed
+PMC9386489_01,passed
+PMC8627859_01,passed
+PMC5958581_01,TB mentioned in passing
+PMC7470354_01,passed
+PMC4189908_01,passed
+PMC7493239_01,passed
+PMC6449815_01,first sentence lacks single patient age+gender
+PMC5089153_01,passed
+PMC3961931_01,passed
+PMC9330379_01,passed
+PMC7217305_01,passed
+PMC3180719_01,passed
+PMC4761126_01,TB mentioned in passing
+PMC4296413_01,multiple patients
+PMC9167476_01,TB mentioned in passing
+PMC4042138_01,passed
+PMC4042138_02,TB history/contact only
+PMC4042138_03,TB history/contact only
+PMC4042138_04,TB mentioned in passing
+PMC4042138_05,passed
+PMC4042138_06,TB mentioned in passing
+PMC8252158_01,TB peripheral
+PMC4845416_01,passed
+PMC7467892_01,passed
+PMC10252926_01,TB history/contact only
+PMC10252926_02,passed
+PMC9395922_01,TB mentioned in passing
+PMC5288617_01,TB mentioned in passing
+PMC5824506_01,first sentence lacks single patient age+gender
+PMC9899441_01,passed
+PMC10233338_01,passed
+PMC9621025_01,passed
+PMC6044367_01,TB mentioned in passing
+PMC3649605_01,TB mentioned in passing
+PMC3497843_01,passed
+PMC10155721_01,passed
+PMC9201408_01,passed
+PMC8559658_01,passed
+PMC8457348_01,multiple patients
+PMC8457348_02,multiple patients
+PMC8457348_03,multiple patients
+PMC8457348_04,passed
+PMC6890184_01,passed
+PMC3396874_01,first sentence lacks single patient age+gender
+PMC3396874_02,first sentence lacks single patient age+gender
+PMC6375019_01,passed
+PMC4317211_01,passed
+PMC9127846_01,passed
+PMC4604638_01,passed
+PMC9533800_01,passed
+PMC8666487_01,passed
+PMC9672840_01,multiple patients
+PMC3621241_01,passed
+PMC3621241_02,passed
+PMC9650132_01,passed
+PMC9650132_02,first sentence lacks single patient age+gender
+PMC10102344_01,passed
+PMC10102344_02,first sentence lacks single patient age+gender
+PMC8168697_01,passed
+PMC7545976_01,first sentence lacks single patient age+gender
+PMC10246597_01,TB peripheral
+PMC7649586_01,passed
+PMC8631973_01,passed
+PMC5234201_01,passed
+PMC5234201_02,passed
+PMC5234201_03,passed
+PMC9196837_01,passed
+PMC6287337_01,passed
+PMC4493258_01,passed
+PMC9587697_01,passed
+PMC3401660_01,TB mentioned in passing
+PMC5402029_01,passed
+PMC4827388_01,passed
+PMC7771482_01,TB mentioned in passing
+PMC7532060_01,passed
+PMC7532060_02,passed
+PMC3982339_01,TB mentioned in passing
+PMC6607461_01,passed
+PMC6909546_01,passed
+PMC9930586_01,passed
+PMC10062070_01,TB mentioned in passing
+PMC7479423_01,passed
+PMC8287425_01,passed
+PMC3716239_01,passed
+PMC3597904_01,first sentence lacks single patient age+gender
+PMC5340087_01,passed
+PMC3628229_01,passed
+PMC4608167_01,passed
+PMC4608167_02,TB mentioned in passing
+PMC4782475_01,passed
+PMC8310911_01,passed
+PMC8055601_01,passed
+PMC9483779_01,passed
+PMC9872259_01,passed
+PMC10328179_01,passed
+PMC8411640_01,passed
+PMC8627139_01,TB peripheral
+PMC4646473_01,passed
+PMC4247868_01,passed
+PMC5905859_01,passed
+PMC5574471_01,first sentence lacks single patient age+gender
+PMC4467051_03,first sentence lacks single patient age+gender
+PMC9348830_01,passed
+PMC6886628_01,TB mentioned in passing
+PMC9905019_01,latent TB screening only
+PMC7305372_01,TB history/contact only
+PMC9924618_01,passed
+PMC3450927_01,passed
+PMC8348907_01,passed
+PMC6560998_01,passed
+PMC5992945_01,first sentence lacks single patient age+gender
+PMC5987074_01,no evidence TB is diagnosis
+PMC7395468_01,TB history/contact only
+PMC3806712_01,passed
+PMC5297488_01,past treated TB only
+PMC6205060_01,first sentence lacks single patient age+gender
+PMC8696155_01,passed
+PMC4192926_01,passed
+PMC9742681_01,passed
+PMC8243228_01,passed
+PMC8243228_02,multiple patients
+PMC9146591_01,TB mentioned in passing
+PMC9146591_02,passed
+PMC7757284_01,passed
+PMC3220172_01,passed
+PMC3573453_01,passed
+PMC10038010_01,passed
+PMC3177409_01,TB mentioned in passing
+PMC9577070_01,passed
+PMC8749145_01,first sentence lacks single patient age+gender
+PMC5175025_01,multiple patients
+PMC10328157_01,passed
+PMC5917533_01,TB mentioned in passing
+PMC4247310_01,TB mentioned in passing
+PMC8226409_01,passed
+PMC5958587_01,first sentence lacks single patient age+gender
+PMC4862298_01,passed
+PMC3889001_01,passed
+PMC3481907_01,passed
+PMC9447446_01,passed
+PMC7210701_01,passed
+PMC4943130_01,passed
+PMC3738353_01,passed
+PMC8581033_01,passed
+PMC7227749_01,first sentence lacks single patient age+gender
+PMC10294240_01,TB peripheral
+PMC5554641_01,passed
+PMC9729335_01,TB mentioned in passing
+PMC10248429_01,passed
+PMC5798098_01,passed
+PMC5798098_02,TB mentioned in passing
+PMC5798098_03,TB mentioned in passing
+PMC5007905_01,TB mentioned in passing
+PMC5578524_01,passed
+PMC9667942_01,passed
+PMC10262133_01,passed
+PMC8047292_01,TB mentioned in passing
+PMC9979078_01,passed
+PMC10308008_01,passed
+PMC9720115_01,passed
+PMC9597014_01,passed
+PMC10043165_01,passed
+PMC10043165_02,multiple patients
+PMC4246641_01,passed
+PMC4746846_01,passed
+PMC6246101_01,passed
+PMC6246101_02,multiple patients
+PMC9301103_01,passed
+PMC6394360_01,passed
+PMC9884389_01,TB not confirmed / not the diagnosis
+PMC9482776_01,passed
+PMC9482776_02,passed
+PMC9482776_03,passed
+PMC6545640_01,non-human
+PMC4769046_01,passed
+PMC3775673_01,TB peripheral
+PMC5403006_01,passed
+PMC8068479_01,TB mentioned in passing
+PMC8068479_02,multiple patients
+PMC5318682_01,TB mentioned in passing
+PMC9950848_01,TB mentioned in passing
+PMC9950848_02,first sentence lacks single patient age+gender
+PMC3228380_01,passed
+PMC8247726_01,passed
+PMC5899771_01,TB ruled out
+PMC5899771_02,multiple patients
+PMC5899771_03,TB history/contact only
+PMC5899771_04,TB history/contact only
+PMC3959392_01,passed
+PMC8044568_01,non-human
+PMC3279507_01,multiple patients
+PMC4119459_01,TB mentioned in passing
+PMC10461118_01,passed
+PMC3716243_01,passed
+PMC9198831_01,passed
+PMC9527840_01,passed
+PMC5629883_01,passed
+PMC5629883_02,TB mentioned in passing
+PMC10498687_01,passed
+PMC8325462_01,first sentence lacks single patient age+gender
+PMC8325462_02,passed
+PMC4584436_01,passed
+PMC8088537_01,passed
+PMC8995639_01,TB mentioned in passing
+PMC8222916_01,passed
+PMC4435753_01,passed
+PMC7525059_01,passed
+PMC6542496_01,passed
+PMC10152958_01,TB peripheral
+PMC8059450_01,passed
+PMC5012831_01,passed
+PMC3415050_01,TB history/contact only
+PMC8101658_01,passed
+PMC4085278_01,passed
+PMC9166903_01,TB mentioned in passing
+PMC9166903_02,TB history/contact only
+PMC9166903_03,TB history/contact only
+PMC9166903_04,multiple patients
+PMC3919864_01,passed
+PMC9931384_01,TB mentioned in passing
+PMC6560971_01,TB mentioned in passing
+PMC6560971_02,TB mentioned in passing
+PMC5012722_01,passed
+PMC6061821_01,TB mentioned in passing
+PMC2841811_01,passed
+PMC7719304_01,passed
+PMC9484660_01,passed
+PMC7152536_01,passed
+PMC4150339_01,passed
+PMC9852623_01,passed
+PMC5337770_01,passed
+PMC8077664_01,passed
+PMC9831644_01,passed
+PMC5776002_01,passed
+PMC6195231_01,passed
+PMC6195231_02,passed
+PMC4732248_01,passed
+PMC6584983_01,passed
+PMC9556986_01,passed
+PMC3892613_01,TB mentioned in passing
+PMC4078420_01,passed
+PMC4427073_01,passed
+PMC7500831_01,passed
+PMC8558794_01,passed
+PMC5502301_01,TB mentioned in passing
+PMC9816882_01,TB history/contact only
+PMC4150118_01,passed
+PMC4785710_01,passed
+PMC4129850_01,TB mentioned in passing
+PMC8320545_01,passed
+PMC11349513_01,passed
+PMC10493093_01,passed
+PMC11245573_01,passed
+PMC10577653_01,passed
+PMC10905053_01,past TB only; aspergilloma
+PMC11185014_01,passed
+PMC11185014_02,passed
+PMC11185014_03,multiple patients
+PMC10796726_01,non-human
+PMC10851956_01,passed
+PMC11003589_01,passed
+PMC10637153_01,passed
+PMC11079585_01,passed
+PMC10621037_01,passed
+PMC10507688_01,passed
+PMC10913494_01,passed
+PMC10629300_01,TB mentioned in passing
+PMC10629300_02,multiple patients
+PMC10629300_03,passed
+PMC11087286_01,passed
+PMC10903715_01,passed
+PMC10903715_02,passed
+PMC10903715_03,passed
+PMC11000838_01,passed
+PMC10756233_01,passed
+PMC10756233_02,passed
+PMC10756233_03,passed
+PMC11249904_01,TB mentioned in passing
+PMC11249904_02,TB history/contact only
+PMC11249904_03,TB mentioned in passing
+PMC10634481_01,passed
+PMC10543978_01,first sentence lacks single patient age+gender
+PMC11025418_01,passed
+PMC10788140_01,passed
+PMC11445011_01,first sentence lacks single patient age+gender
+PMC11161697_01,passed
+PMC11299650_01,first sentence lacks single patient age+gender
+PMC11101932_01,passed
+PMC10614019_01,passed
+PMC10839630_01,passed
+PMC10897761_01,passed
+PMC10846630_01,passed
+PMC10791562_01,passed
+PMC11298185_01,passed
+PMC10846756_01,passed
+PMC11045152_01,passed
+PMC10630663_01,passed
+PMC11224552_01,multiple patients
+PMC11224552_02,TB mentioned in passing
+PMC11224552_03,multiple patients
+PMC11232812_01,first sentence lacks single patient age+gender
+PMC11324283_01,passed
+PMC11363842_01,TB mentioned in passing
+PMC11129859_01,TB mentioned in passing
+PMC10512445_01,passed
+PMC11381933_01,passed
+PMC11419570_01,passed
+PMC10919296_01,passed
+PMC10919296_02,TB mentioned in passing
+PMC10748545_01,passed
+PMC11041532_01,passed
+PMC10891419_01,multiple patients
+PMC10891419_02,"NTM disease, TB tests negative"
+PMC11368141_01,passed
+PMC10801818_01,passed
+PMC10757785_01,passed
+PMC10589006_01,passed
+PMC11072070_01,TB mentioned in passing
+PMC10540695_01,passed
+PMC10643883_01,passed
+PMC10714958_01,passed
+PMC11225989_01,passed
+PMC10684684_01,passed
+PMC10741810_01,passed
+PMC11048278_01,passed
+PMC10726230_01,passed
+PMC10726230_02,passed
+PMC10858631_01,passed
+PMC11382235_01,TB mentioned in passing
+PMC10902606_01,passed
+PMC11090586_01,passed
+PMC11193920_01,passed
+PMC11045157_01,passed
+PMC11338169_01,passed
+PMC11387800_01,passed
+PMC11376222_01,passed
+PMC10861359_01,first sentence lacks single patient age+gender
+PMC11380833_01,passed
+PMC10864149_01,passed
+PMC11308940_01,first sentence lacks single patient age+gender
+PMC10848178_01,TB mentioned in passing
+PMC10892368_01,passed
+PMC10589411_01,first sentence lacks single patient age+gender
+PMC10589411_02,TB mentioned in passing
+PMC10775172_01,passed
+PMC10536161_01,passed
+PMC10831199_01,passed
+PMC10787524_01,passed
+PMC10949077_01,TB mentioned in passing
+PMC10827300_01,passed
+PMC11119346_01,multiple patients
+PMC11165128_01,passed
+PMC11165128_02,passed
+PMC10894019_01,passed
+PMC10752045_01,passed
+PMC10559415_01,passed
+PMC10712253_01,passed
+PMC11068466_01,passed
+PMC11195031_01,passed
+PMC11056642_01,passed
+PMC11084989_01,passed
+PMC11380897_01,passed
+PMC10629335_01,passed
+PMC10546250_01,passed
+PMC10546250_02,passed
+PMC10546250_03,passed
+PMC10546250_04,passed
+PMC10546250_05,passed
+PMC11227676_01,passed
+PMC11214292_01,TB history/contact only
+PMC11329603_01,passed
+PMC11329603_02,passed
+PMC11329603_03,passed
+PMC11329603_04,passed
+PMC11329603_05,passed
+PMC10775742_01,passed
+PMC10585360_01,TB mentioned in passing
+PMC11102793_01,non-human
+PMC11823840_01,passed
+PMC11832258_01,TB mentioned in passing
+PMC11832258_02,TB mentioned in passing
+PMC11832258_03,TB mentioned in passing
+PMC11832258_04,passed
+PMC11741017_01,passed
+PMC11809120_01,passed
+PMC11788734_01,first sentence lacks single patient age+gender
+PMC11823877_01,passed
+PMC11821501_01,passed
+PMC11790467_01,passed
+PMC11804952_01,passed
+PMC11794079_01,passed
+PMC11822684_01,passed
+PMC11787820_01,passed
+PMC11754060_01,passed
+PMC11785421_01,passed
+PMC11787410_01,passed
+PMC11802170_01,passed
+PMC11757094_01,passed
+PMC11830955_01,passed
+PMC11801809_01,TB mentioned in passing
+PMC11769722_01,passed
+PMC11760121_01,passed
+PMC11614787_01,passed
+PMC11832249_01,passed
+PMC11664150_01,passed
+PMC11771164_01,TB mentioned in passing
+PMC11799939_01,TB peripheral
+PMC11721805_01,passed
+PMC11823887_01,passed
+PMC11817252_01,first sentence lacks single patient age+gender
+PMC11807723_01,passed
+PMC11681884_01,TB mentioned in passing
+PMC11681884_02,multiple patients
+PMC11681884_03,TB mentioned in passing
+PMC11830580_01,passed
+PMC11802171_01,passed
+PMC11800540_01,passed
+PMC11798422_01,passed
+PMC11793831_01,passed
+PMC12280337_01,passed
+PMC12901481_01,passed
+PMC12901481_02,multiple patients
+PMC12901481_03,multiple patients
+PMC12284410_01,passed
+PMC12158594_01,passed
+PMC12503462_01,passed
+PMC12340403_01,first sentence lacks single patient age+gender
+PMC12340403_02,TB history/contact only
+PMC12180861_01,passed
+PMC12173442_01,passed
+PMC12815525_01,passed
+PMC12908690_01,passed
+PMC12920071_01,passed
+PMC13002359_01,first sentence lacks single patient age+gender
+PMC12507563_01,TB mentioned in passing
+PMC12875410_01,passed
+PMC12838217_01,passed
+PMC12818014_01,TB mentioned in passing
+PMC12759013_01,passed
+PMC12240101_01,passed
+PMC12240101_02,passed
+PMC13019573_01,first sentence lacks single patient age+gender
+PMC13019573_02,passed
+PMC12911139_01,passed
+PMC12348705_01,passed
+PMC12861277_01,passed
+PMC12812521_01,passed
+PMC12793031_01,passed
+PMC12669145_01,first sentence lacks single patient age+gender
+PMC12669145_02,passed
+PMC12544461_01,passed
+PMC12446597_01,passed
+PMC13141470_01,TB mentioned in passing
+PMC12284409_01,passed
+PMC12660279_01,passed
+PMC12493756_01,passed
+PMC13065717_01,passed
+PMC12743525_01,passed
+PMC12743525_02,passed
+PMC12743525_03,passed
+PMC12743525_04,passed
+PMC12743525_05,passed
+PMC12743525_06,passed
+PMC12681392_01,passed
+PMC12224322_01,passed
+PMC12591818_01,passed
+PMC12969041_01,passed
+PMC12772334_01,passed
+PMC12668970_01,passed
+PMC12854188_01,first sentence lacks single patient age+gender
+PMC13157979_01,TB mentioned in passing
+PMC12259309_01,passed
+PMC13067360_01,passed
+PMC12281794_01,passed
+PMC13179870_01,first sentence lacks single patient age+gender
+PMC13102560_01,passed
+PMC12426271_01,passed
+PMC12435507_01,multiple patients
+PMC12357779_01,passed
+PMC12858201_01,passed

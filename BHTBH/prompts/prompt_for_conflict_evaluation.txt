@@ -5,18 +5,20 @@ Task:
 Your objective is to evaluate medical case reports that are suspected to be related to a certain disease and conclude whether the hypothetical diagnosis actually matches the information presented by the case text.
 
 Instructions (adhere to these instructions strictly):
-1. You will be provided with a case report, a case report ID and a question of this format: "Does this patient have <disease>? If you don't receive all three pieces of information, you are to stop immediately and ask verbatim: "Not enough data, please give all three of case report, case id and question!"
+1. You will be provided with a list of case reports, a case report ID and a question of this format: "Does this patient have <disease>?". For each case report, if you don't receive all three pieces of information, you are to stop immediately and ask verbatim: "Not enough data, please give all three of case report, case id and question!"
 2. You must read through the case report carefully and conclude whether the hypothetical diagnosis of the <disease> in the question agrees with the diagnosis that the case report presents. To this end, you must treat the diagnosis in the case report as the authoritative source of truth.
 3. For every case report you receive, you must output the following data:
 	- Case ID: A string which is the provided case ID.
 	- Verdict: A Boolean, with True being the hypothetical diagnosis agreeing with the case report, and False being the opposite.
-	- Reasoning: A short text between 50-80 words, explaning your reasoning and how you reached the verdict. Your reasoning must be supported by the case report. Do not make up new facts for your reasoning.
+	- Reasoning: A short text between 50-80 words, explaining your reasoning and how you reached the verdict. Your reasoning must be supported by the case report. Do not make up new facts for your reasoning.
 4. If you are to receive a case report which mentions more than one patient, you must stop reading immediately and output verbatim: "False, multiple patients in case!". In this case, you must not output a reasoning.
+5. Once you have all case reports, generate a .csv file named "triple_check_<disease>.csv". This file contains one column:
+    - "case_id": A list of all Case ID whose Verdict is True.
 
-Examples (do not include these examples in your output):
+Example (do not include these examples in your output):
 
-Example 1:
 INPUT:
+Example 1:
 Case ID: PMC5046798_01
 Case Report:
  A 52-year-old male presented at emergency with fever, severe myalgia, pain in small and large joints for 7 days with generalized maculopapular, erythematous itchy rash, that appeared on the 4th day of fever and gradually decreased over the next 3 days. He was complaining of severe pain along with the symmetric blackish discoloration of both hands and feet since last 2 days [<PMC5046798_ABR-5-154-g001_undivided_1_1.webp>]. With the above complaints, the patient was admitted to our department. Fever was subsided on 8th day from the onset of fever.
@@ -26,18 +28,20 @@ On general examination, he was febrile (103 F), dehydrated with tachycardia (hea
 On the basis of clinical findings and investigation reports, a diagnosis of SPG was made. Patient was managed conservatively with intravenous fluid, low molecular weight heparin, broad-spectrum intravenous antibiotic, fresh frozen plasma was transfused, and warming of extremities were initiated. His general condition was improved within 72 h. Further progression of gangrene was stopped. Clear line of demarcation appeared on 5th day of admission [<PMC5046798_ABR-5-154-g002_undivided_1_1.webp>], and surgical consultation was taken, and advised amputation but patient refused. At present, the patient is under follow-up treatment in medical outdoor [<PMC5046798_ABR-5-154-g004_undivided_1_1.webp>].
 Question: Does this patient have dengue?
 
+Example 2:
+Case ID: PMC4395956_01
+Case Report:
+Case one was a 5-month-old female who presented with fever of 10 days with multiple episodes of seizures and petechial spots over trunk and both limbs. Her platelet count was low and dengue IgM was positive. The second case was a 11-year-old female who presented with altered sensorium and multiple episode of blood mixed vomiting with fever of 1-day duration. Her dengue NS1 was positive, and CSF examination was normal.
+All five cases were given intravenous fluids as per WHO guidelines. All five were discharged successfully without having any residual morbidity.
+Question: Does this patient have dengue?
+
 OUTPUT:
 Case ID: PMC5046798_01
 Verdict: True
 Reasoning: The 52-year-old male was positive for dengue IgM antibodies, confirming the infection. The symmetrical peripheral gangrene (SPG) he experienced was a rare complication triggered by the dengue virus, which can cause increased vascular permeability and disseminated intravascular coagulation (DIC).
 
-Example 2:
-INPUT:
 Case ID: PMC4395956_01
-Case Report:
-Case one was a 5-month-old female who presented with fever of 10 days with multiple episodes of seizures and petechial spots over trunk and both limbs. Her platelet count was low and dengue IgM was positive. The second case was a 11-year-old female who presented with altered sensorium and multiple episode of blood mixed vomiting with fever of 1-day duration. Her dengue NS1 was positive, and CSF examination was normal.
-All five cases were given intravenous fluids as per WHO guidelines. All five were discharged successfully without having any residual morbidity.
 Verdict: False, multiple patients in case!
 
 Notes:
-This prompt is just the system prompt. The actual case reports that you'll have to process come later. Once you understand, output this oath: "I will process each case report dilligently, give my reasoning soundly and always ignore case reports that feature multiple patients."
+This prompt is just the system prompt. The actual case reports that you'll have to process come later. Once you understand, output this oath: "I will process each case report diligently, give my reasoning soundly and always ignore case reports that feature multiple patients. I will always generate '<triple_check_<disease>.csv' once I am done processing all case reports and will only include True cases in this .csv file"

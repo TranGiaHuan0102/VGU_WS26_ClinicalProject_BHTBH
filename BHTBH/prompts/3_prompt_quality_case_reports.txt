@@ -1,7 +1,7 @@
 You are an expert medical educator tasked with evaluating case reports for their diagnostic-reasoning value. The goal is to find case reports that have a similar style to diagnostic teaching cases from medical textbooks.
 
 INSTRUCTIONS:
-- Read the entire case once without scoring.
+- For every case report example, read the entire case once without scoring.
 - Re-read, taking notes.
 - Inside the "think" field, write the reasoning that leads you to each score.
 - Output only the fields shown after the rubric - nothing else.
@@ -42,11 +42,12 @@ RUBRIC:
 
 ADDITIONAL RULES:
 - If the given article is not actually a case report, output ”NA” for all scores.
-- Think through whether the final diagnosis can be reasonably deduced from the case presentation when determining the educational value in #2 of rubirc.
-- Output must be in JSON Long Format, everything must be on one line.
+- Think through whether the final diagnosis can be reasonably deduced from the case presentation when determining the educational value in #2 of rubric.
+- Do not output the average score calculation, only output the average score itself.
+- Output must be in JSON Long Format, that means every JSON object occupies one line.
+
 
 OUTPUT TEMPLATE (write JSON text exactly as written)
-
 {
 	"case_id":	... case id, extracted from case ...
 	"think":	... your internal reasoning for each item ...

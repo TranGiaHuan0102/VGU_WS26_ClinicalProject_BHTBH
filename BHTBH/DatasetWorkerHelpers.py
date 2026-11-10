@@ -4,6 +4,7 @@ import pandas as pd
 import json
 import math
 import os
+import requests
 
 # ======================================================================
 # WORKER HELPERS (module-level functions, decoupled from worker)
@@ -14,6 +15,10 @@ def read_csv(csv_path: Path):
         return pd.read_csv(csv_path)
     except FileNotFoundError:
         return None
+
+def write_csv(csv_path: Path, df: pd.DataFrame) -> None:
+    """Writes df to csv_path (UTF-8, no index), replacing any existing file."""
+    df.to_csv(csv_path, index=False, encoding="utf-8")
 
 def read_case_ids(csv_path: Path) -> list:
     """Reads only the case_id column of a cases CSV and returns it as a list."""
@@ -79,47 +84,49 @@ def delete_trash(disease_path: Path, excluded_file: Path) -> None:
                     except Exception as e:
                         print(f"Failed to delete {file.name}: {e}")
 
-def write_query(text_path: Path, cases_df: pd.DataFrame, disease: str) -> None:
+# ======================================================================
+# WRITE CUSTOM QUERY
+# ======================================================================
+def write_query(text_path: Path, cases_df: pd.DataFrame, block_function, disease=None) -> None:
+    """
+    Generic function that writes a query for every row, using a specific content block function below.
+
+    By default, it expects a 'disease' column in cases_df. Otherwise, a 'disease' parameter may be passed, which is treated as the disease of the whole dataframe.
+    """
+
     with open(text_path, 'w', encoding='utf-8') as txt_file:
-        for i, row in enumerate(cases_df.itertuples(), start=1):
+        for _, row in enumerate(cases_df.itertuples(), start=1):
             case_id = getattr(row, 'case_id', 'Unknown ID')
             case_text = getattr(row, 'case_text', 'No text available')
 
-            block = (
-                f"Example {i}:\n"
-                f"Case ID: {case_id}\n"
-                f"Case Report: {case_text}\n"
-                f'Question: "Does this patient have {disease}?"\n'
-                "\n"
-            )
+            case_disease = getattr(row, 'disease', disease)
+
+            # Check that case_disease is actually present
+            if case_disease is None:
+                print(f"{case_id} has no valid case disease!")
+                continue
+
+            block = block_function(case_id, case_text, case_disease)
             txt_file.write(block)
 
-def floor_sqrt_block_algorithm(disease_df: pd.DataFrame):
-    """
-    Sorted-block method:
-      1. sort the cases by average_score (ties broken by case_id)
-      2. k = floor(sqrt(n)) test cases
-      3. cut the sorted list into k consecutive blocks of nearly equal size
-      4. the middle case of each block is a test case (the lower one when the
-         block has an even size); every other case is a train case
-    """
-    total_cases = len(disease_df)
-    test_cases = math.isqrt(total_cases)  # floor(sqrt(total_cases))
-    block_size, extra = divmod(total_cases, test_cases)  # (number of blocks, extras)
+def diagnosis_question_block(case_id : str, case_text : str, disease : str) -> str:
+    return (
+        f"Case ID: {case_id}\n"
+        f"Case Report: {case_text}\n"
+        f'Question: "Does this patient have {disease}?"\n'
+        "\n"
+    )
 
-    test_ids, start = [], 0
-
-    for i in range(test_cases):  # Every loop yields 1 test_case
-        size = block_size + 1 if i < extra else block_size  # the first `extra` blocks get one more
-        block = disease_df[start:start + size]
-        test_ids.append(block[(size - 1) // 2])
-        start += size
-
-    return test_ids
-
+def mask_disease_block(case_id : str, case_text : str, disease: str) -> str:
+    return (
+        f"Case ID: {case_id}\n"
+        f"Case Report: {case_text}\n"
+        f'Request: "Mask all instances in the Case Report that mention the disease: {disease.capitalize()}."\n'
+        "\n"
+    )
 
 # ======================================================================
-# MISCELLANEOUS
+# DISEASE ONTOLOGY (DISEASE NAME NORMALIZATION)
 # ======================================================================
 def get_secret(secret_name: str, env_file: str = "public.env", set_env_var: bool = True) -> str:
     """
@@ -170,7 +177,92 @@ def get_secret(secret_name: str, env_file: str = "public.env", set_env_var: bool
         "Ensure the secret exists and is populated."
     )
 
-def build_hf_dataset(train_df: pd.DataFrame, test_df : pd.DataFrame) -> DatasetDict:
+def find_standardized_disease_name(disease : str, api_key=get_secret(secret_name="UMLS_API_KEY")):
+    # Base URL of UMLS REST API search endpoint
+    url = "https://uts-ws.nlm.nih.gov/rest/search/current"
+
+    params = {
+        "string" : disease,
+        "apiKey" : api_key,
+        "page_number" : 1,
+    }
+
+    try:
+        response = requests.get(url, params=params)
+        response.raise_for_status()  # Raise an exception for bad status codes
+
+        data = response.json()
+
+        # Extract the results from the JSON response
+        results = data.get("result", {}).get("results", [])
+
+        if not results:
+            return None
+        return results[0]['name']
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error communicating with the UMLS API: {e}")
+        return None
+
+def inverted_disease_fix(disease_name: str) -> str:
+    """
+    (Handling normalized disease names returned by UMLS)
+
+    Turns an inverted UMLS/MeSH name into natural word order.
+    """
+    parts = [" ".join(part.split()) for part in disease_name.split(",")]
+
+    # If disease_name is of structure <main>, <sub>
+    if len(parts) == 2:
+        return " ".join(reversed([part for part in parts if part]))
+    else:
+        return disease_name
+
+# ======================================================================
+# TRAIN/TEST SPLIT
+# ======================================================================
+def floor_sqrt_block_algorithm(disease_df: pd.DataFrame):
+    """
+    Sorted-block method (for picking test cases):
+      1. sort the cases by average_score (ties broken by case_id)
+      2. k = floor(sqrt(n)) test cases
+      3. cut the sorted list into k consecutive blocks of nearly equal size
+      4. the middle case of each block is a test case (the lower one when the
+         block has an even size); every other case is a train case
+    """
+    total_cases = len(disease_df)
+    test_cases = math.isqrt(total_cases)  # floor(sqrt(total_cases))
+    block_size, extra = divmod(total_cases, test_cases)  # (number of blocks, extras)
+
+    test_ids, start = [], 0
+
+    for i in range(test_cases):  # Every loop yields 1 test_case
+        size = block_size + 1 if i < extra else block_size  # the first `extra` blocks get one more
+        block = disease_df[start:start + size]
+        test_ids.append(block[(size - 1) // 2])
+        start += size
+
+    return test_ids
+
+def pick_test_cases(disease_df: pd.DataFrame, algorithm=floor_sqrt_block_algorithm) -> list:
+    """
+    Picks the test case_ids of ONE disease using specified algorithm.
+
+    All supported algorithms can be found in DatasetWorkerHelpers.py
+    """
+
+    if disease_df['case_id'].duplicated().any():
+        raise ValueError("Duplicate case_id values in one disease.")
+
+    # Sort cases by average score
+    ordered_disease_df = (
+        disease_df.sort_values(['average_score', 'case_id'])['case_id'].tolist()
+    )
+
+    test_ids = algorithm(ordered_disease_df)
+    return test_ids
+
+def build_hf_dataset(train_df: pd.DataFrame, test_df : pd.DataFrame, masked_df : pd.DataFrame) -> DatasetDict:
     """
     Converts a pandas DataFrame into an HF Dataset.
 
@@ -178,10 +270,12 @@ def build_hf_dataset(train_df: pd.DataFrame, test_df : pd.DataFrame) -> DatasetD
     """
     train_ds = Dataset.from_pandas(train_df.reset_index(drop=True))
     test_ds = Dataset.from_pandas(test_df.reset_index(drop=True))
+    masked_ds = Dataset.from_pandas(masked_df.reset_index(drop=True))
 
     return DatasetDict({
         "train": train_ds,
-        "test": test_ds
+        "test": test_ds,
+        "masked_test": masked_ds,
     })
 
     # ds = ds.cast_column(

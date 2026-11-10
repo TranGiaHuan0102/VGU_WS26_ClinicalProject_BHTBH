@@ -56,6 +56,7 @@ class DatasetWorker:
     def __init__(self, dataset_name: str):
         self.DATASET_PATH = None
         self.DISEASES = []
+        self.NORMALIZED_DISEASES_CSV = None
         self.mount(dataset_name)
 
 
@@ -263,55 +264,50 @@ class DatasetWorker:
                 f"could not be deleted: {list(skipped_ids)}. Run the deletion again to retry."
             )
 
-    @staticmethod
-    def _pick_test_cases(disease_df: pd.DataFrame, algorithm) -> list:
+    def _load_normalized_names(self) -> pd.DataFrame:
         """
-        Picks the test case_ids of ONE disease using specified algorithm.
+        Returns a DataFrame with the columns 'disease' and 'normalized_name'.
 
-        All supported algorithms can be found in DatasetWorkerHelpers.py
+        Reads self.NORMALIZED_DISEASES_CSV when it exists, otherwise calls UMLS API for every disease, replaces the whole file, and returns the result.
+
+        A disease the API finds nothing for is stored with an empty name. The file is never refreshed automatically:
+        delete it to regenerate all names.
         """
+        names_df = DatasetWorkerHelpers.read_csv(self.NORMALIZED_DISEASES_CSV)
 
-        if disease_df['case_id'].duplicated().any():
-            raise ValueError("Duplicate case_id values in one disease.")
+        # If "normalized_diseases.csv" already has content, return it
+        if names_df is not None:
+            return names_df
 
-        # Sort cases by average score
-        ordered_disease_df = (
-            disease_df.sort_values(['average_score', 'case_id'])['case_id'].tolist()
-        )
+        # Else, call UMLS API and populate it
+        rows = []
+        for disease in self.DISEASES:
+            raw_name = DatasetWorkerHelpers.find_standardized_disease_name(disease=disease)
 
-        test_ids = algorithm(ordered_disease_df)
-        return test_ids
+            if raw_name is None:
+                print(f"No standardized name found for {disease}.")
+                rows.append({'disease': disease, 'normalized_name': None})
+            else:
+                rows.append({'disease': disease, 'normalized_name': DatasetWorkerHelpers.inverted_disease_fix(str(raw_name))})
 
-    # ==================================
-    # DISEASE ONTOLOGY
-    # ==================================
-    @staticmethod
-    def _find_standardized_disease_name(disease : str, api_key : str):
-        # Base URL of UMLS REST API search endpoint
-        url = "https://uts-ws.nlm.nih.gov/rest/search/current"
+        names_df = pd.DataFrame(rows)
 
-        params = {
-            "string" : disease,
-            "apiKey" : api_key,
-            "page_number" : 1,
-        }
+        # Write to file
+        DatasetWorkerHelpers.write_csv(csv_path=self.NORMALIZED_DISEASES_CSV, df=names_df)
 
-        try:
-            response = requests.get(url, params=params)
-            response.raise_for_status()  # Raise an exception for bad status codes
+        return names_df
 
-            data = response.json()
+    def _generate_masking_requests(self):
+        """"
+        Generate masking requests based on `cases_test.csv`
+        """
+        test_df = DatasetWorkerHelpers.read_csv(self.DATASET_PATH / "cases_test.csv")
 
-            # Extract the results from the JSON response
-            results = data.get("result", {}).get("results", [])
+        if test_df is None:
+            print("No cases_test.csv available! Run previous steps in notebook first!")
+            return
 
-            if not results:
-                return None
-            return results[0]['name']
-
-        except requests.exceptions.RequestException as e:
-            print(f"Error communicating with the UMLS API: {e}")
-            return None
+        DatasetWorkerHelpers.write_query(self.DATASET_PATH / "cases_test_masked.txt", test_df, block_function=DatasetWorkerHelpers.mask_disease_block)
 
     # ==================================================================
     # PORCELAIN (operate on every disease folder of the mounted dataset)
@@ -334,6 +330,7 @@ class DatasetWorker:
         old_path = self.DATASET_PATH
         self.DATASET_PATH = new_path
         self.DISEASES = new_diseases
+        self.NORMALIZED_DISEASES_CSV = new_path / "normalized_diseases.csv"
 
         summary = (
             f"renamed {len(renames)} cases.csv, "
@@ -440,7 +437,7 @@ class DatasetWorker:
             # Never delete cases.csv
             DatasetWorkerHelpers.delete_trash(paths.disease_folder, paths.cases_csv)
 
-    def generate_case_queries(self) -> None:
+    def generate_diagnosis_questions(self) -> None:
         """Generates queries.txt for every disease folder. This .txt can then be fed to LLMs for distillation."""
         for disease in self.DISEASES:
             paths = self._disease_paths(disease)
@@ -449,8 +446,7 @@ class DatasetWorker:
 
             txt_path = paths.disease_folder / f"{paths.cases_csv.stem}.txt"
 
-            DatasetWorkerHelpers.write_query(text_path=txt_path, cases_df=cases_df, disease=disease)
-
+            DatasetWorkerHelpers.write_query(text_path=txt_path, cases_df=cases_df, disease=disease, block_function=DatasetWorkerHelpers.mask_disease_block)
             print(f"Successfully formatted {len(cases_df)} queries into {txt_path.name}")
 
     def attach_scores(self) -> None:
@@ -574,7 +570,10 @@ class DatasetWorker:
 
         return pretty_print_metrics(all_metrics=all_diseases_metrics)
 
-    def build_master_dataset(self, api_key : str) -> None:
+    def build_master_dataset(self) -> None:
+        # Load "normalized_diseases.csv" first:
+        normalized_diseases = self._load_normalized_names()
+
         all_rows = []
 
         """ Iterates over all diseases, extracts cases and images, and builds a massive combined cases.csv at the root of worker"""
@@ -589,7 +588,7 @@ class DatasetWorker:
                 continue
 
             # Find normalized name of disease
-            normalized_disease_name = DatasetWorker._find_standardized_disease_name(disease=disease, api_key=api_key)
+            normalized_disease_name = normalized_diseases.set_index('disease')['normalized_name'].get(disease)
 
             if normalized_disease_name is None:
                 continue
@@ -609,14 +608,15 @@ class DatasetWorker:
             all_rows.append(row)
 
         # Combine everything and export to root
-        combined_df = pd.concat(all_rows, ignore_index=True)
+        try:
+            combined_df = pd.concat(all_rows, ignore_index=True)
+            output_csv = self.DATASET_PATH / "evaluated_cases.csv"
+            combined_df.to_csv(output_csv, index=False)
+            print(f"Successfully built massive dataset at {output_csv} with {len(combined_df)} total cases.")
+        except ValueError as e:
+            print("Nothing to build master dataset from.")
 
-        output_csv = self.DATASET_PATH / "evaluated_cases.csv"
-        combined_df.to_csv(output_csv, index=False)
-
-        print(f"Successfully built massive dataset at {output_csv} with {len(combined_df)} total cases.")
-
-    def assign_splits(self, min_cases: int = 30, split_algorithm=DatasetWorkerHelpers.floor_sqrt_block_algorithm):
+    def assign_splits(self):
         """
         Splits the master dataset (evaluated_cases.csv) into (train_df, test_df).
         """
@@ -629,7 +629,7 @@ class DatasetWorker:
         included_index, test_index= [], []
 
         for disease, group in master_df.groupby('disease'):
-            test_ids = DatasetWorker._pick_test_cases(disease_df=group, algorithm=split_algorithm)
+            test_ids = DatasetWorkerHelpers.pick_test_cases(disease_df=group)
 
             included_index.extend(group.index)  # Store all case_ids of disease in included
 
@@ -638,11 +638,50 @@ class DatasetWorker:
         is_included = master_df.index.isin(included_index)
         is_test = master_df.index.isin(test_index)
 
+        # Output to .csv files
         test_df = master_df[is_test]
+        test_df.to_csv(self.DATASET_PATH / "cases_test.csv", index=False)
+
         train_df = master_df[is_included & ~is_test]
+        train_df.to_csv(self.DATASET_PATH / "cases_train.csv", index=False)
 
         return train_df.reset_index(drop=True), test_df.reset_index(drop=True)
 
+    def get_masked_test_cases(self):
+        """"
+        If `cases_test_masked.csv` is present, return it and skip query generation.
+
+        Else, generate `cases_test_masked.txt` as masking requests to LLM (use in tandem with prompt 4).
+        """
+
+        masked_df = DatasetWorkerHelpers.read_csv(self.DATASET_PATH / "cases_test_masked.csv")
+
+        if masked_df is not None:
+            # Format to merge masked case text to `cases_test.csv`
+            masked_df = masked_df.rename(columns={"masked_case_text": "case_text"})
+
+            test_df = DatasetWorkerHelpers.read_csv(self.DATASET_PATH / "cases_test.csv")
+
+            if test_df is None:
+                print("`cases_test.csv` not available. Rerun previous steps in notebook first!")
+                return None
+
+            test_df["case_id"] = test_df["case_id"].astype(str).str.strip()
+            masked_df["case_id"] = masked_df["case_id"].astype(str).str.strip()
+
+            original_cols = list(test_df.columns)
+
+            merged = (
+                test_df.drop(columns="case_text")
+                .merge(masked_df[["case_id", "case_text"]], on="case_id", how="left", validate="1:1")
+                [original_cols]  # restore the original column order
+            )
+
+            return merged
+
+        print("Masked cases not available yet, generate `cases_test_masked.csv` using Prompt 4 and `cases_test_masked.txt` first, then return!")
+        self._generate_masking_requests()
+        return None
 
 # ======================================================================
 # PUBLIC (call this, to start worker)

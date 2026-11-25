@@ -16,6 +16,13 @@ def read_csv(csv_path: Path):
     except FileNotFoundError:
         return None
 
+def read_jsonl(path: str):
+    """Read a JSON Lines file into a pandas DataFrame."""
+    try:
+        return pd.read_json(path, lines=True)
+    except FileNotFoundError:
+        return None
+
 def write_csv(csv_path: Path, df: pd.DataFrame) -> None:
     """Writes df to csv_path (UTF-8, no index), replacing any existing file."""
     df.to_csv(csv_path, index=False, encoding="utf-8")

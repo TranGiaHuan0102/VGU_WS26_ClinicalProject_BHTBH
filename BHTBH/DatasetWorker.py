@@ -3,6 +3,9 @@ from pathlib import Path
 
 import pandas as pd
 import os
+
+from aiohttp._websocket import mask
+
 import DatasetWorkerHelpers
 import requests
 
@@ -682,6 +685,16 @@ class DatasetWorker:
         print("Masked cases not available yet, generate `cases_test_masked.csv` using Prompt 4 and `cases_test_masked.txt` first, then return!")
         self._generate_masking_requests()
         return None
+
+    def read_soap_notes(self):
+        def template(file_type : str):
+            return self.DATASET_PATH / f"cases_{file_type}_soap_structured.jsonl"
+
+        train_df = DatasetWorkerHelpers.read_jsonl(template("train"))
+        test_df = DatasetWorkerHelpers.read_jsonl(template("test"))
+        masked_df = DatasetWorkerHelpers.read_jsonl(template("test_masked"))
+
+        return train_df, test_df, masked_df
 
 # ======================================================================
 # PUBLIC (call this, to start worker)
